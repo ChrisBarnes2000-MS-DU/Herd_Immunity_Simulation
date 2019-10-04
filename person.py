@@ -2,7 +2,6 @@ import random
 random.seed(42)
 from virus import Virus
 
-
 class Person(object):
     ''' Person objects will populate the simulation. '''
 
@@ -27,8 +26,13 @@ class Person(object):
         '''
         # Only called if infection attribute is not None.
         # TODO:  Finish this method. Should return a Boolean
-        pass
-
+        num = random(1,10)
+        if num < Virus.mortality_rate:
+            self.is_alive = False
+            return 0
+        elif num == Virus.mortality_rate:
+            self.is_vaccinated = True
+            return 1
 
 ''' These are simple tests to ensure that you are instantiating your Person class correctly. '''
 def test_vacc_person_instantiation():
