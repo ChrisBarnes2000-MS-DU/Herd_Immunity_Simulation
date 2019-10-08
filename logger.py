@@ -1,5 +1,8 @@
 # https://realpython.com/python-f-strings/
-# https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-r
+# https://stackoverflow.com/questions/1466000/python-open-built-in-function-difference-between-modes-a-a-w-w-and-from
+from person import Person
+import io
+import sys
 
 
 class Logger(object):
