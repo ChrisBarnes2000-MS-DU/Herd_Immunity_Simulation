@@ -142,6 +142,20 @@ class Simulation(object):
                 increment interaction counter by 1.
             '''
         # TODO: Finish this method.
+        ran = random.randint(0, self.pop_size)
+        random_person = self.population(person._id(ran))
+        interactions = 100
+
+        for person in self.population:
+            if person.is_alive is False:
+                #that fuckers dead get a new one
+                ran = random.randint(0, self.pop_size)
+                random_person = self.population(person._id(ran))
+                return random_person
+            elif person.infection is not None:
+                self.interaction(random_person, person)
+
+        self._infect_newly_infection()
         pass
 
     def interaction(self, person, random_person):
@@ -169,7 +183,14 @@ class Simulation(object):
         #     Simulation object's newly_infected array, so that their .infected
         #     attribute can be changed to True at the end of the time step.
         # TODO: Call slogger method during this method.
-        pass
+        if random_person.is_vaccinated or random_person.infection != None:
+            # check if random_person is vaccinated or already infected, and nothing happens
+            return
+        elif not random_person.is_vaccinated and random_person.infection is None:
+            # check if random_person is healthy, but unvaccinated
+            infect = random.random(0,1)
+            if infect < self.virus.repro_rate:
+                self.newly_infected.append(random_person._id)    
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
@@ -177,8 +198,9 @@ class Simulation(object):
         # TODO: Call this method at the end of every time step and infect each Person.
         # TODO: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list.
-        pass
-
+        for infected in self.newly_infected:
+            infected.infection = self.virus
+        self.newly_infected.clear
 
 if __name__ == "__main__":
     params = sys.argv[1:]
