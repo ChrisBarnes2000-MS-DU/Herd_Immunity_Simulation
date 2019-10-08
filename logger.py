@@ -79,11 +79,18 @@ class Logger(object):
         # TODO: Finish this method. If the person survives, did_die_from_infection
         # should be False.  Otherwise, did_die_from_infection should be True.
         # Append the results of the infection to the logfile
-        pass
+        with open(self.file_name, mode='a') as f:
+            f.write('Infection Survived: \n')
+            if not did_die_from_infection:  # if person() is not dead print it ^^^
+                infection_status = str(person._id) + \
+                    ' survived infection.' + '\n'
+                f.write(infection_status)
+            else:
+                infection_status = str(person._id) + ' died from infection.'
 
     def log_time_step(self, time_step_number):
         ''' STRETCH CHALLENGE DETAILS:
-
+        #finish this part later for chris
         If you choose to extend this method, the format of the summary statistics logged
         are up to you.
 
