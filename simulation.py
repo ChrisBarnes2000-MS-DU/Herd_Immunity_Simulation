@@ -18,7 +18,7 @@ class Simulation(object):
     infected people in a population are all variables that can be set when the program is run.
     '''
 
-    def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus=None):
+    def __init__(self, pop_size, vacc_percentage, basic_repro_num, virus=None, nitial_infected=1):
         ''' Logger object logger records all events during the simulation.
         Population represents all Persons in the population.
         The next_person_id is the next available id for all created Persons,
@@ -37,7 +37,7 @@ class Simulation(object):
         '''
         # TODO: Create a Logger object and bind it to self.logger.
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
-        logging.warning('Watch out!')
+        logging.warning('Logging...')
         # TODO: Call self._create_population() and pass in the correct parameters.
         # Store the array that this method will return in the self.population attribute.
         # TODO: Store each newly infected person's ID in newly_infected attribute.
@@ -46,12 +46,15 @@ class Simulation(object):
         self.population = []  # List of Person objects
         self.pop_size = pop_size  # Int
         self.next_person_id = 0  # Int
-        self.virus = virus  # Virus object
+        self.virus_name = virus_name  # Virus object
         self.initial_infected = initial_infected  # Int
         self.total_infected = 0  # Int
         self.current_infected = 0  # Int
         self.vacc_percentage = vacc_percentage  # float between 0 and 1
         self.total_dead = 0  # Int
+        self.mortality_rate = mortality_rate
+        self.basic_repro_num = basic_repro_num
+
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, pop_size, vacc_percentage, initial_infected)
         self.newly_infected = []
@@ -118,6 +121,9 @@ class Simulation(object):
         # TODO: Keep track of the number of time steps that have passed.
         # HINT: You may want to call the logger's log_time_step() method at the end of each time step.
         # TODO: Set this variable using a helper
+        Logger.write_metadata(self, self.pop_size, self.vacc_percentage,
+                              self.virus_name, self.mortality_rate, self.initial_infected)
+
         time_step_counter = 0
         should_continue = None
 

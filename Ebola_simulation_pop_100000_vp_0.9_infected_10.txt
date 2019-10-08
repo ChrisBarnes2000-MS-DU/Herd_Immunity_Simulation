@@ -1,0 +1,1 @@
+Pop: 100000 	 Vaccinated: 0.9 	 Virus: Ebola 	 Mortality: 0.7 	 Initial Infected: 10 	 
