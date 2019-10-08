@@ -142,16 +142,13 @@ class Simulation(object):
                 increment interaction counter by 1.
             '''
         # TODO: Finish this method.
-        ran = random.randint(0, self.pop_size)
-        random_person = self.population(person._id(ran))
+        random_person = random.choice(self.population)
         interactions = 100
 
         for person in self.population:
             if person.is_alive is False:
                 #that fuckers dead get a new one
-                ran = random.randint(0, self.pop_size)
-                random_person = self.population(person._id(ran))
-                return random_person
+                random_person = random.choice(self.population)
             elif person.infection is not None:
                 self.interaction(random_person, person)
 
