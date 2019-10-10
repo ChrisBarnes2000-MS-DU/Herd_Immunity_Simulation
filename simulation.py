@@ -4,7 +4,6 @@ import logging
 from person import Person
 import random
 import sys
-# https://softwareengineering.stackexchange.com/questions/507/why-42-is-the-preferred-number-when-indicating-something-random
 random.seed(42)
 
 module_logger = logging.getLogger()
@@ -51,18 +50,19 @@ class Simulation(object):
         self.total_infected = 0  # Int
         self.current_infected = []  # Int
         self.newly_infected = []
+        self.time_step_counter = 0
         self.vacc_percentage = vacc_percentage  # float between 0 and 1
         self.total_dead = 0  # Int
         self.mortality_rate = mortality_rate
         self.basic_repro_num = basic_repro_num
-        self.time_step_counter = 0
+
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, pop_size, vacc_percentage, initial_infected)
+        print(virus_name)
         self.logger = Logger(self.file_name)
 
         self.newly_infected = []
         self.population = self._create_population(initial_infected)
-
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
             Args:
@@ -113,6 +113,21 @@ class Simulation(object):
                     self.next_person_id += 1
         self.total_infected = infected
         return self.population
+        # add correct number of initially infected people
+        # for i in range(initial_infected):
+        #     self.population.append(
+        #         Person(self.next_person_id, False, self.virus))
+        #     self.next_person_id += 1
+        # # add correct percentage of people vaccinated
+        # for v in range(self.vacc_percentage*self.pop_size):
+        #     self.population.append(
+        #         Person(self.next_person_id, True))
+        #     self.next_person_id += 1
+        # # add remaining people to correct for population size
+        # while len(self.population) < self.pop_size:
+        #     self.population.append(
+        #         Person(self.next_person_id, False))
+        #     self.next_person_id += 1
 
     def _simulation_should_continue(self):
         ''' The simulation should only end if the entire population is dead
@@ -133,6 +148,7 @@ class Simulation(object):
         # self.total_infected, self.current_infected, self.pop_size, self.mortality_rate))
         print('Total infected: {}, Current Infected: {}, Population: {}, Initial Infected: {}'.format(
             self.total_infected, len(self.current_infected), self.pop_size, self.initial_infected))
+
         if self.total_infected == self.pop_size:
             print("Human Mass Extinction Event")
             return False
@@ -170,6 +186,7 @@ class Simulation(object):
         print(
             f'The simulation has ended after {self.time_step_counter} turns.')
 
+
     def time_step(self):
         ''' This method should contain all the logic for computing one time step
         in the simulation.
@@ -188,7 +205,7 @@ class Simulation(object):
         for person in self.population:
             for infected_person in self.current_infected:
                 interactions = 0
-                while interactions <= 100:
+                while interactions <= 5:
                     alive = False
                     while not alive:
                         random_person = self.population[random.randint(
@@ -197,11 +214,14 @@ class Simulation(object):
                             alive = True
                         self.interaction(infected_person, random_person)
                         interactions += 1
+
         for person in self.population:
-            if person.is_alive and person.infection == True:
-                self.logger.log_infection_survival(
-                    person, person.did_survive_infection(self.mortality_rate))
-        self.time_step_counter += 1
+            if person.is_alive is False:
+                random_person = random.choice(self.population)
+            elif person.infection is not None:
+                self.interaction(random_person, person)
+
+        
 
     def interaction(self, person, random_person):
         '''This method should be called any time two living people are selected for an
@@ -239,6 +259,7 @@ class Simulation(object):
                 self.newly_infected.append(random_person)
                 self.logger.log_interaction(person, random_person)
 
+
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
         and update each Person object with the disease. '''
@@ -250,7 +271,6 @@ class Simulation(object):
                 person.infected = True
 
         self.newly_infected = []
-
 
 if __name__ == "__main__":
     params = sys.argv[1:]
@@ -265,7 +285,7 @@ if __name__ == "__main__":
         initial_infected = 1
 
     # virus = Virus(virus_name, basic_repro_num, mortality_rate)
-    sim = Simulation(pop_size, vacc_percentage, virus_name, mortality_rate,
+    sim = Simulation(virus_name, pop_size, vacc_percentage, mortality_rate,
                             basic_repro_num, initial_infected)
 
     sim.run()
