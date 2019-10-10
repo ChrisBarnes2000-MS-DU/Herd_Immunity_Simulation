@@ -102,13 +102,22 @@ class Simulation(object):
                 bool: True for simulation should continue, False if it should end.
         '''
         # TODO: Complete this helper method.  Returns a Boolean.
-        for person in self.population:
-            if self.total_dead == self.pop_size:
-                return False  # entire population has died
-            elif person.is_vaccinated:
-                return False  # Someones not vaccinated
-            elif not person.is_alive:
-                self.total_dead += 1  # a person has died
+        # for person in self.population:
+        #     if self.total_dead == self.pop_size:
+        #         return False  # entire population has died
+        #     elif person.is_vaccinated:
+        #         return False  # Someones not vaccinated
+        #     elif not person.is_alive:
+        #         self.total_dead += 1  # a person has died
+
+        if self.total_infected == self.pop_size:
+            print("Human Mass Extinction Event")
+            return False
+        if self.current_infected == 0:
+            print('Virus Eliminated: Cure Found')
+            return False
+        print("------::")
+        return True
 
     def run(self):
         ''' This method should run the simulation until all requirements for ending
@@ -127,12 +136,13 @@ class Simulation(object):
         time_step_counter = 0
         should_continue = None
 
-        while should_continue:
-            # TODO: for every iteration of this loop, call self.time_step() to compute another
-            # round of this simulation.
-            print('The simulation has ended after {time_step_counter} turns.'.format(
-                time_step_counter))
-        pass
+        # while should_continue:
+        # TODO: for every iteration of this loop, call self.time_step() to compute another
+        # round of this simulation.
+        print('Total infected: {}, Currently Infected: {}, Population Total: {}, Mortality: {} '.format(
+            self.total_infected, self.current_infected, self.pop_size, self.mortality_rate))
+        # print('The simulation has ended after {time_step_counter} turns.'.format(
+        #     time_step_counter))
 
     def time_step(self):
         ''' This method should contain all the logic for computing one time step
