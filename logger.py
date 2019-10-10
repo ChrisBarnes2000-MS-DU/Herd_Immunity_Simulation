@@ -57,18 +57,18 @@ class Logger(object):
             f.write('Interaction Logs: \n')
             # if the initial carrier infects random person, log interaction
             if did_infect:
-                infection_status = str(
-                    person._id) + ' infects ' + str(random_person._id) + '\n'
+                infection_status ='Person: ' + str(
+                    person._id) + ' infects Person: ' + str(random_person._id) + '\n'
                 f.write(infection_status)
             elif random_person.is_vaccinated:
                 # log random person vaccinatin
-                infection_status = str(
-                    person._id) + ' did not infected ' + str(random_person._id) + '\n'
+                infection_status = 'Person: ' + str(
+                    person._id) + ' did not infect Person: ' + str(random_person._id) + '\n'
                 f.write(infection_status)
             else:
                 # log status of virus spread etc
-                infection_status = str(person._id) + ' did not infect ' + str(random_person._id) + \
-                    ' because ' + str(random_person._id) + \
+                infection_status ='Person: ' + str(person._id) + ' did not infect ' + str(random_person._id) + \
+                    ' because Person: ' + str(random_person._id) + \
                     ' is vaccinated or already sick.' + '\n'
                 f.write(infection_status)
 
