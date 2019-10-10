@@ -1,0 +1,5429 @@
+Interaction Logs: 
+Person: 0 did not infect Person: 14
+Interaction Logs: 
+Person: 0 did not infect Person: 19
+Interaction Logs: 
+Person: 0 did not infect Person: 80
+Interaction Logs: 
+Person: 0 did not infect Person: 20
+Interaction Logs: 
+Person: 0 did not infect Person: 87
+Interaction Logs: 
+Person: 0 did not infect Person: 54
+Interaction Logs: 
+Person: 0 did not infect Person: 76
+Interaction Logs: 
+Person: 0 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 49
+Interaction Logs: 
+Person: 0 did not infect Person: 48
+Interaction Logs: 
+Person: 0 did not infect Person: 76
+Interaction Logs: 
+Person: 0 did not infect Person: 59
+Interaction Logs: 
+Person: 0 did not infect Person: 67
+Interaction Logs: 
+Person: 0 did not infect Person: 32
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 87
+Interaction Logs: 
+Person: 0 did not infect Person: 92
+Interaction Logs: 
+Person: 0 did not infect Person: 14
+Interaction Logs: 
+Person: 0 did not infect Person: 87
+Interaction Logs: 
+Person: 0 did not infect Person: 68
+Interaction Logs: 
+Person: 0 infects Person: 96
+Interaction Logs: 
+Person: 0 did not infect Person: 82
+Interaction Logs: 
+Person: 0 infects Person: 43
+Interaction Logs: 
+Person: 0 did not infect Person: 55
+Interaction Logs: 
+Person: 0 did not infect Person: 20
+Interaction Logs: 
+Person: 0 did not infect Person: 58
+Interaction Logs: 
+Person: 0 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 92
+Interaction Logs: 
+Person: 0 did not infect Person: 92
+Interaction Logs: 
+Person: 0 did not infect Person: 33
+Interaction Logs: 
+Person: 0 did not infect Person: 64
+Interaction Logs: 
+Person: 0 did not infect Person: 97
+Interaction Logs: 
+Person: 0 did not infect Person: 22
+Interaction Logs: 
+Person: 0 did not infect Person: 64
+Interaction Logs: 
+Person: 0 did not infect Person: 13
+Interaction Logs: 
+Person: 0 did not infect Person: 80
+Interaction Logs: 
+Person: 0 did not infect Person: 38
+Interaction Logs: 
+Person: 0 infects Person: 81
+Interaction Logs: 
+Person: 0 did not infect Person: 25
+Interaction Logs: 
+Person: 0 did not infect Person: 19
+Interaction Logs: 
+Person: 0 did not infect Person: 47
+Interaction Logs: 
+Person: 0 did not infect Person: 97
+Interaction Logs: 
+Person: 0 did not infect Person: 20
+Interaction Logs: 
+Person: 0 did not infect Person: 69
+Interaction Logs: 
+Person: 0 did not infect Person: 99
+Interaction Logs: 
+Person: 0 did not infect Person: 67
+Interaction Logs: 
+Person: 0 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 76
+Interaction Logs: 
+Person: 0 did not infect Person: 41
+Interaction Logs: 
+Person: 0 did not infect Person: 62
+Interaction Logs: 
+Person: 0 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 14
+Interaction Logs: 
+Person: 0 did not infect Person: 46
+Interaction Logs: 
+Person: 0 did not infect Person: 39
+Interaction Logs: 
+Person: 0 did not infect Person: 30
+Interaction Logs: 
+Person: 0 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 30
+Interaction Logs: 
+Person: 0 did not infect Person: 72
+Interaction Logs: 
+Person: 0 did not infect Person: 10
+Interaction Logs: 
+Person: 0 did not infect Person: 10
+Interaction Logs: 
+Person: 0 did not infect Person: 93
+Interaction Logs: 
+Person: 0 did not infect Person: 62
+Interaction Logs: 
+Person: 0 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 97
+Interaction Logs: 
+Person: 0 did not infect Person: 68
+Interaction Logs: 
+Person: 0 did not infect Person: 98
+Interaction Logs: 
+Person: 0 did not infect Person: 16
+Interaction Logs: 
+Person: 0 did not infect Person: 16
+Interaction Logs: 
+Person: 0 did not infect Person: 84
+Interaction Logs: 
+Person: 0 did not infect Person: 60
+Interaction Logs: 
+Person: 0 infects Person: 70
+Interaction Logs: 
+Person: 0 did not infect Person: 67
+Interaction Logs: 
+Person: 0 did not infect Person: 77
+Interaction Logs: 
+Person: 0 did not infect Person: 54
+Interaction Logs: 
+Person: 0 did not infect Person: 27
+Interaction Logs: 
+Person: 0 did not infect Person: 69
+Interaction Logs: 
+Person: 0 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 93
+Interaction Logs: 
+Person: 0 did not infect Person: 88
+Interaction Logs: 
+Person: 0 did not infect Person: 25
+Interaction Logs: 
+Person: 0 did not infect Person: 91
+Interaction Logs: 
+Person: 0 did not infect Person: 39
+Interaction Logs: 
+Person: 0 did not infect Person: 51
+Interaction Logs: 
+Person: 0 did not infect Person: 85
+Interaction Logs: 
+Person: 0 did not infect Person: 83
+Interaction Logs: 
+Person: 0 did not infect Person: 47
+Interaction Logs: 
+Person: 0 did not infect Person: 56
+Interaction Logs: 
+Person: 0 did not infect Person: 66
+Interaction Logs: 
+Person: 0 did not infect Person: 57
+Interaction Logs: 
+Person: 0 did not infect Person: 15
+Interaction Logs: 
+Person: 0 did not infect Person: 31
+Interaction Logs: 
+Person: 0 did not infect Person: 28
+Interaction Logs: 
+Person: 0 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 75
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 29
+Interaction Logs: 
+Person: 0 did not infect Person: 75
+Interaction Logs: 
+Person: 1 did not infect Person: 28
+Interaction Logs: 
+Person: 1 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 90
+Interaction Logs: 
+Person: 1 did not infect Person: 80
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 29
+Interaction Logs: 
+Person: 1 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 42
+Interaction Logs: 
+Person: 1 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 65
+Interaction Logs: 
+Person: 1 did not infect Person: 30
+Interaction Logs: 
+Person: 1 did not infect Person: 35
+Interaction Logs: 
+Person: 1 did not infect Person: 85
+Interaction Logs: 
+Person: 1 did not infect Person: 62
+Interaction Logs: 
+Person: 1 did not infect Person: 27
+Interaction Logs: 
+Person: 1 did not infect Person: 69
+Interaction Logs: 
+Person: 1 did not infect Person: 16
+Interaction Logs: 
+Person: 1 did not infect Person: 92
+Interaction Logs: 
+Person: 1 did not infect Person: 73
+Interaction Logs: 
+Person: 1 did not infect Person: 73
+Interaction Logs: 
+Person: 1 did not infect Person: 60
+Interaction Logs: 
+Person: 1 did not infect Person: 31
+Interaction Logs: 
+Person: 1 did not infect Person: 60
+Interaction Logs: 
+Person: 1 did not infect Person: 52
+Interaction Logs: 
+Person: 1 did not infect Person: 24
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect Person: 84
+Interaction Logs: 
+Person: 1 did not infect Person: 55
+Interaction Logs: 
+Person: 1 did not infect Person: 45
+Interaction Logs: 
+Person: 1 did not infect Person: 54
+Interaction Logs: 
+Person: 1 did not infect Person: 52
+Interaction Logs: 
+Person: 1 did not infect Person: 59
+Interaction Logs: 
+Person: 1 did not infect Person: 93
+Interaction Logs: 
+Person: 1 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 infects Person: 86
+Interaction Logs: 
+Person: 1 did not infect Person: 82
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 51
+Interaction Logs: 
+Person: 1 did not infect Person: 93
+Interaction Logs: 
+Person: 1 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 13
+Interaction Logs: 
+Person: 1 did not infect Person: 31
+Interaction Logs: 
+Person: 1 did not infect Person: 24
+Interaction Logs: 
+Person: 1 did not infect Person: 24
+Interaction Logs: 
+Person: 1 did not infect Person: 68
+Interaction Logs: 
+Person: 1 did not infect Person: 57
+Interaction Logs: 
+Person: 1 did not infect Person: 17
+Interaction Logs: 
+Person: 1 did not infect Person: 54
+Interaction Logs: 
+Person: 1 did not infect Person: 23
+Interaction Logs: 
+Person: 1 did not infect Person: 35
+Interaction Logs: 
+Person: 1 did not infect Person: 59
+Interaction Logs: 
+Person: 1 did not infect Person: 31
+Interaction Logs: 
+Person: 1 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 56
+Interaction Logs: 
+Person: 1 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 83
+Interaction Logs: 
+Person: 1 did not infect Person: 69
+Interaction Logs: 
+Person: 1 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 11
+Interaction Logs: 
+Person: 1 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 30
+Interaction Logs: 
+Person: 1 did not infect Person: 21
+Interaction Logs: 
+Person: 1 did not infect Person: 52
+Interaction Logs: 
+Person: 1 did not infect Person: 62
+Interaction Logs: 
+Person: 1 did not infect Person: 61
+Interaction Logs: 
+Person: 1 did not infect Person: 27
+Interaction Logs: 
+Person: 1 did not infect Person: 51
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 21
+Interaction Logs: 
+Person: 1 did not infect Person: 48
+Interaction Logs: 
+Person: 1 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 49
+Interaction Logs: 
+Person: 1 did not infect Person: 33
+Interaction Logs: 
+Person: 1 did not infect Person: 58
+Interaction Logs: 
+Person: 1 did not infect Person: 36
+Interaction Logs: 
+Person: 1 did not infect Person: 54
+Interaction Logs: 
+Person: 1 did not infect Person: 89
+Interaction Logs: 
+Person: 1 did not infect Person: 93
+Interaction Logs: 
+Person: 1 did not infect Person: 71
+Interaction Logs: 
+Person: 1 did not infect Person: 84
+Interaction Logs: 
+Person: 1 did not infect Person: 91
+Interaction Logs: 
+Person: 1 did not infect Person: 62
+Interaction Logs: 
+Person: 1 did not infect Person: 19
+Interaction Logs: 
+Person: 1 did not infect Person: 24
+Interaction Logs: 
+Person: 1 did not infect Person: 37
+Interaction Logs: 
+Person: 1 did not infect Person: 27
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 74
+Interaction Logs: 
+Person: 1 did not infect Person: 94
+Interaction Logs: 
+Person: 1 did not infect Person: 69
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 95
+Interaction Logs: 
+Person: 1 did not infect Person: 40
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 74
+Interaction Logs: 
+Person: 2 did not infect Person: 61
+Interaction Logs: 
+Person: 2 did not infect Person: 64
+Interaction Logs: 
+Person: 2 did not infect Person: 67
+Interaction Logs: 
+Person: 2 did not infect Person: 20
+Interaction Logs: 
+Person: 2 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 65
+Interaction Logs: 
+Person: 2 did not infect Person: 10
+Interaction Logs: 
+Person: 2 did not infect Person: 23
+Interaction Logs: 
+Person: 2 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 76
+Interaction Logs: 
+Person: 2 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 30
+Interaction Logs: 
+Person: 2 did not infect Person: 51
+Interaction Logs: 
+Person: 2 did not infect Person: 15
+Interaction Logs: 
+Person: 2 did not infect Person: 72
+Interaction Logs: 
+Person: 2 did not infect Person: 31
+Interaction Logs: 
+Person: 2 did not infect Person: 74
+Interaction Logs: 
+Person: 2 did not infect Person: 76
+Interaction Logs: 
+Person: 2 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 79
+Interaction Logs: 
+Person: 2 did not infect Person: 10
+Interaction Logs: 
+Person: 2 did not infect Person: 53
+Interaction Logs: 
+Person: 2 did not infect Person: 84
+Interaction Logs: 
+Person: 2 did not infect Person: 74
+Interaction Logs: 
+Person: 2 did not infect Person: 72
+Interaction Logs: 
+Person: 2 did not infect Person: 66
+Interaction Logs: 
+Person: 2 did not infect Person: 40
+Interaction Logs: 
+Person: 2 did not infect Person: 33
+Interaction Logs: 
+Person: 2 did not infect Person: 26
+Interaction Logs: 
+Person: 2 did not infect Person: 85
+Interaction Logs: 
+Person: 2 did not infect Person: 91
+Interaction Logs: 
+Person: 2 did not infect Person: 40
+Interaction Logs: 
+Person: 2 did not infect Person: 30
+Interaction Logs: 
+Person: 2 did not infect Person: 33
+Interaction Logs: 
+Person: 2 did not infect Person: 50
+Interaction Logs: 
+Person: 2 did not infect Person: 16
+Interaction Logs: 
+Person: 2 did not infect Person: 85
+Interaction Logs: 
+Person: 2 did not infect Person: 82
+Interaction Logs: 
+Person: 2 did not infect Person: 38
+Interaction Logs: 
+Person: 2 did not infect Person: 58
+Interaction Logs: 
+Person: 2 did not infect Person: 40
+Interaction Logs: 
+Person: 2 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 58
+Interaction Logs: 
+Person: 2 did not infect Person: 79
+Interaction Logs: 
+Person: 2 did not infect Person: 72
+Interaction Logs: 
+Person: 2 did not infect Person: 12
+Interaction Logs: 
+Person: 2 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 68
+Interaction Logs: 
+Person: 2 did not infect Person: 27
+Interaction Logs: 
+Person: 2 did not infect Person: 64
+Interaction Logs: 
+Person: 2 did not infect Person: 33
+Interaction Logs: 
+Person: 2 did not infect Person: 16
+Interaction Logs: 
+Person: 2 did not infect Person: 44
+Interaction Logs: 
+Person: 2 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 31
+Interaction Logs: 
+Person: 2 did not infect Person: 47
+Interaction Logs: 
+Person: 2 did not infect Person: 36
+Interaction Logs: 
+Person: 2 did not infect Person: 20
+Interaction Logs: 
+Person: 2 did not infect Person: 56
+Interaction Logs: 
+Person: 2 did not infect Person: 69
+Interaction Logs: 
+Person: 2 did not infect Person: 90
+Interaction Logs: 
+Person: 2 did not infect Person: 38
+Interaction Logs: 
+Person: 2 did not infect Person: 78
+Interaction Logs: 
+Person: 2 did not infect Person: 83
+Interaction Logs: 
+Person: 2 did not infect Person: 67
+Interaction Logs: 
+Person: 2 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 85
+Interaction Logs: 
+Person: 2 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 38
+Interaction Logs: 
+Person: 2 did not infect Person: 84
+Interaction Logs: 
+Person: 2 did not infect Person: 13
+Interaction Logs: 
+Person: 2 did not infect Person: 17
+Interaction Logs: 
+Person: 2 did not infect Person: 33
+Interaction Logs: 
+Person: 2 did not infect Person: 14
+Interaction Logs: 
+Person: 2 did not infect Person: 13
+Interaction Logs: 
+Person: 2 did not infect Person: 95
+Interaction Logs: 
+Person: 2 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 19
+Interaction Logs: 
+Person: 2 infects Person: 34
+Interaction Logs: 
+Person: 2 did not infect Person: 26
+Interaction Logs: 
+Person: 2 did not infect Person: 91
+Interaction Logs: 
+Person: 2 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 26
+Interaction Logs: 
+Person: 2 did not infect Person: 87
+Interaction Logs: 
+Person: 2 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 33
+Interaction Logs: 
+Person: 2 did not infect Person: 64
+Interaction Logs: 
+Person: 2 did not infect Person: 62
+Interaction Logs: 
+Person: 2 did not infect Person: 32
+Interaction Logs: 
+Person: 2 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 11
+Interaction Logs: 
+Person: 2 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 54
+Interaction Logs: 
+Person: 2 did not infect Person: 35
+Interaction Logs: 
+Person: 2 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 42
+Interaction Logs: 
+Person: 3 did not infect Person: 98
+Interaction Logs: 
+Person: 3 did not infect Person: 16
+Interaction Logs: 
+Person: 3 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 33
+Interaction Logs: 
+Person: 3 did not infect Person: 20
+Interaction Logs: 
+Person: 3 did not infect Person: 94
+Interaction Logs: 
+Person: 3 did not infect Person: 56
+Interaction Logs: 
+Person: 3 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 90
+Interaction Logs: 
+Person: 3 did not infect Person: 54
+Interaction Logs: 
+Person: 3 did not infect Person: 71
+Interaction Logs: 
+Person: 3 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 14
+Interaction Logs: 
+Person: 3 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 88
+Interaction Logs: 
+Person: 3 did not infect Person: 19
+Interaction Logs: 
+Person: 3 did not infect Person: 69
+Interaction Logs: 
+Person: 3 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 47
+Interaction Logs: 
+Person: 3 did not infect Person: 74
+Interaction Logs: 
+Person: 3 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 18
+Interaction Logs: 
+Person: 3 did not infect Person: 55
+Interaction Logs: 
+Person: 3 did not infect Person: 16
+Interaction Logs: 
+Person: 3 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 39
+Interaction Logs: 
+Person: 3 did not infect Person: 46
+Interaction Logs: 
+Person: 3 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 45
+Interaction Logs: 
+Person: 3 did not infect Person: 26
+Interaction Logs: 
+Person: 3 did not infect Person: 87
+Interaction Logs: 
+Person: 3 did not infect Person: 31
+Interaction Logs: 
+Person: 3 did not infect Person: 85
+Interaction Logs: 
+Person: 3 did not infect Person: 13
+Interaction Logs: 
+Person: 3 did not infect Person: 45
+Interaction Logs: 
+Person: 3 did not infect Person: 99
+Interaction Logs: 
+Person: 3 did not infect Person: 71
+Interaction Logs: 
+Person: 3 did not infect Person: 52
+Interaction Logs: 
+Person: 3 did not infect Person: 79
+Interaction Logs: 
+Person: 3 did not infect Person: 95
+Interaction Logs: 
+Person: 3 did not infect Person: 19
+Interaction Logs: 
+Person: 3 did not infect Person: 30
+Interaction Logs: 
+Person: 3 did not infect Person: 20
+Interaction Logs: 
+Person: 3 did not infect Person: 22
+Interaction Logs: 
+Person: 3 did not infect Person: 52
+Interaction Logs: 
+Person: 3 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 22
+Interaction Logs: 
+Person: 3 did not infect Person: 94
+Interaction Logs: 
+Person: 3 did not infect Person: 42
+Interaction Logs: 
+Person: 3 did not infect Person: 52
+Interaction Logs: 
+Person: 3 did not infect Person: 85
+Interaction Logs: 
+Person: 3 did not infect Person: 94
+Interaction Logs: 
+Person: 3 did not infect Person: 31
+Interaction Logs: 
+Person: 3 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 20
+Interaction Logs: 
+Person: 3 did not infect Person: 89
+Interaction Logs: 
+Person: 3 did not infect Person: 13
+Interaction Logs: 
+Person: 3 did not infect Person: 48
+Interaction Logs: 
+Person: 3 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 60
+Interaction Logs: 
+Person: 3 did not infect Person: 28
+Interaction Logs: 
+Person: 3 did not infect Person: 25
+Interaction Logs: 
+Person: 3 did not infect Person: 58
+Interaction Logs: 
+Person: 3 did not infect Person: 44
+Interaction Logs: 
+Person: 3 did not infect Person: 39
+Interaction Logs: 
+Person: 3 did not infect Person: 29
+Interaction Logs: 
+Person: 3 did not infect Person: 28
+Interaction Logs: 
+Person: 3 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 84
+Interaction Logs: 
+Person: 3 did not infect Person: 24
+Interaction Logs: 
+Person: 3 did not infect Person: 51
+Interaction Logs: 
+Person: 3 did not infect Person: 42
+Interaction Logs: 
+Person: 3 did not infect Person: 35
+Interaction Logs: 
+Person: 3 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 98
+Interaction Logs: 
+Person: 3 did not infect Person: 35
+Interaction Logs: 
+Person: 3 did not infect Person: 44
+Interaction Logs: 
+Person: 3 did not infect Person: 82
+Interaction Logs: 
+Person: 3 did not infect Person: 65
+Interaction Logs: 
+Person: 3 did not infect Person: 51
+Interaction Logs: 
+Person: 3 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 68
+Interaction Logs: 
+Person: 3 did not infect Person: 42
+Interaction Logs: 
+Person: 3 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 14
+Interaction Logs: 
+Person: 3 did not infect Person: 33
+Interaction Logs: 
+Person: 3 did not infect Person: 22
+Interaction Logs: 
+Person: 3 did not infect Person: 74
+Interaction Logs: 
+Person: 3 did not infect Person: 33
+Interaction Logs: 
+Person: 3 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 13
+Interaction Logs: 
+Person: 3 did not infect Person: 76
+Interaction Logs: 
+Person: 3 did not infect Person: 55
+Interaction Logs: 
+Person: 3 did not infect Person: 44
+Interaction Logs: 
+Person: 3 did not infect Person: 93
+Interaction Logs: 
+Person: 3 did not infect Person: 40
+Interaction Logs: 
+Person: 3 did not infect Person: 55
+Interaction Logs: 
+Person: 3 did not infect Person: 77
+Interaction Logs: 
+Person: 4 did not infect Person: 65
+Interaction Logs: 
+Person: 4 did not infect Person: 14
+Interaction Logs: 
+Person: 4 did not infect Person: 49
+Interaction Logs: 
+Person: 4 did not infect Person: 73
+Interaction Logs: 
+Person: 4 did not infect Person: 24
+Interaction Logs: 
+Person: 4 did not infect Person: 32
+Interaction Logs: 
+Person: 4 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 90
+Interaction Logs: 
+Person: 4 did not infect Person: 55
+Interaction Logs: 
+Person: 4 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 66
+Interaction Logs: 
+Person: 4 did not infect Person: 68
+Interaction Logs: 
+Person: 4 did not infect Person: 87
+Interaction Logs: 
+Person: 4 did not infect Person: 92
+Interaction Logs: 
+Person: 4 did not infect Person: 94
+Interaction Logs: 
+Person: 4 did not infect Person: 94
+Interaction Logs: 
+Person: 4 did not infect Person: 85
+Interaction Logs: 
+Person: 4 did not infect Person: 25
+Interaction Logs: 
+Person: 4 did not infect Person: 46
+Interaction Logs: 
+Person: 4 did not infect Person: 55
+Interaction Logs: 
+Person: 4 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 85
+Interaction Logs: 
+Person: 4 did not infect Person: 42
+Interaction Logs: 
+Person: 4 did not infect Person: 79
+Interaction Logs: 
+Person: 4 did not infect Person: 40
+Interaction Logs: 
+Person: 4 did not infect Person: 84
+Interaction Logs: 
+Person: 4 did not infect Person: 15
+Interaction Logs: 
+Person: 4 did not infect Person: 92
+Interaction Logs: 
+Person: 4 did not infect Person: 38
+Interaction Logs: 
+Person: 4 did not infect Person: 64
+Interaction Logs: 
+Person: 4 did not infect Person: 39
+Interaction Logs: 
+Person: 4 did not infect Person: 85
+Interaction Logs: 
+Person: 4 did not infect Person: 52
+Interaction Logs: 
+Person: 4 did not infect Person: 41
+Interaction Logs: 
+Person: 4 did not infect Person: 51
+Interaction Logs: 
+Person: 4 did not infect Person: 89
+Interaction Logs: 
+Person: 4 did not infect Person: 37
+Interaction Logs: 
+Person: 4 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 16
+Interaction Logs: 
+Person: 4 did not infect Person: 24
+Interaction Logs: 
+Person: 4 did not infect Person: 53
+Interaction Logs: 
+Person: 4 did not infect Person: 85
+Interaction Logs: 
+Person: 4 did not infect Person: 48
+Interaction Logs: 
+Person: 4 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 95
+Interaction Logs: 
+Person: 4 did not infect Person: 22
+Interaction Logs: 
+Person: 4 did not infect Person: 78
+Interaction Logs: 
+Person: 4 did not infect Person: 72
+Interaction Logs: 
+Person: 4 did not infect Person: 38
+Interaction Logs: 
+Person: 4 did not infect Person: 51
+Interaction Logs: 
+Person: 4 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 38
+Interaction Logs: 
+Person: 4 did not infect Person: 36
+Interaction Logs: 
+Person: 4 did not infect Person: 26
+Interaction Logs: 
+Person: 4 did not infect Person: 55
+Interaction Logs: 
+Person: 4 did not infect Person: 74
+Interaction Logs: 
+Person: 4 did not infect Person: 77
+Interaction Logs: 
+Person: 4 did not infect Person: 83
+Interaction Logs: 
+Person: 4 did not infect Person: 41
+Interaction Logs: 
+Person: 4 did not infect Person: 59
+Interaction Logs: 
+Person: 4 did not infect Person: 56
+Interaction Logs: 
+Person: 4 did not infect Person: 56
+Interaction Logs: 
+Person: 4 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 27
+Interaction Logs: 
+Person: 4 did not infect Person: 65
+Interaction Logs: 
+Person: 4 did not infect Person: 60
+Interaction Logs: 
+Person: 4 did not infect Person: 94
+Interaction Logs: 
+Person: 4 did not infect Person: 21
+Interaction Logs: 
+Person: 4 did not infect Person: 84
+Interaction Logs: 
+Person: 4 did not infect Person: 10
+Interaction Logs: 
+Person: 4 did not infect Person: 36
+Interaction Logs: 
+Person: 4 did not infect Person: 65
+Interaction Logs: 
+Person: 4 did not infect Person: 84
+Interaction Logs: 
+Person: 4 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 79
+Interaction Logs: 
+Person: 4 did not infect Person: 42
+Interaction Logs: 
+Person: 4 did not infect Person: 11
+Interaction Logs: 
+Person: 4 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 30
+Interaction Logs: 
+Person: 4 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 39
+Interaction Logs: 
+Person: 4 did not infect Person: 28
+Interaction Logs: 
+Person: 4 did not infect Person: 25
+Interaction Logs: 
+Person: 4 did not infect Person: 18
+Interaction Logs: 
+Person: 4 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 31
+Interaction Logs: 
+Person: 4 did not infect Person: 60
+Interaction Logs: 
+Person: 4 did not infect Person: 78
+Interaction Logs: 
+Person: 4 did not infect Person: 98
+Interaction Logs: 
+Person: 4 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 58
+Interaction Logs: 
+Person: 4 did not infect Person: 53
+Interaction Logs: 
+Person: 4 did not infect Person: 80
+Interaction Logs: 
+Person: 4 did not infect Person: 73
+Interaction Logs: 
+Person: 4 did not infect Person: 24
+Interaction Logs: 
+Person: 4 did not infect Person: 91
+Interaction Logs: 
+Person: 4 did not infect Person: 89
+Interaction Logs: 
+Person: 4 did not infect Person: 49
+Interaction Logs: 
+Person: 5 infects Person: 63
+Interaction Logs: 
+Person: 5 did not infect Person: 18
+Interaction Logs: 
+Person: 5 did not infect Person: 83
+Interaction Logs: 
+Person: 5 did not infect Person: 88
+Interaction Logs: 
+Person: 5 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 98
+Interaction Logs: 
+Person: 5 did not infect Person: 13
+Interaction Logs: 
+Person: 5 did not infect Person: 99
+Interaction Logs: 
+Person: 5 did not infect Person: 54
+Interaction Logs: 
+Person: 5 did not infect Person: 28
+Interaction Logs: 
+Person: 5 did not infect Person: 22
+Interaction Logs: 
+Person: 5 did not infect Person: 89
+Interaction Logs: 
+Person: 5 did not infect Person: 66
+Interaction Logs: 
+Person: 5 did not infect Person: 59
+Interaction Logs: 
+Person: 5 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect Person: 31
+Interaction Logs: 
+Person: 5 did not infect Person: 15
+Interaction Logs: 
+Person: 5 did not infect Person: 58
+Interaction Logs: 
+Person: 5 did not infect Person: 17
+Interaction Logs: 
+Person: 5 did not infect Person: 59
+Interaction Logs: 
+Person: 5 did not infect Person: 85
+Interaction Logs: 
+Person: 5 did not infect Person: 67
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect Person: 76
+Interaction Logs: 
+Person: 5 did not infect Person: 40
+Interaction Logs: 
+Person: 5 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 56
+Interaction Logs: 
+Person: 5 did not infect Person: 78
+Interaction Logs: 
+Person: 5 did not infect Person: 92
+Interaction Logs: 
+Person: 5 did not infect Person: 64
+Interaction Logs: 
+Person: 5 did not infect Person: 54
+Interaction Logs: 
+Person: 5 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 57
+Interaction Logs: 
+Person: 5 did not infect Person: 20
+Interaction Logs: 
+Person: 5 did not infect Person: 95
+Interaction Logs: 
+Person: 5 did not infect Person: 60
+Interaction Logs: 
+Person: 5 did not infect Person: 57
+Interaction Logs: 
+Person: 5 did not infect Person: 33
+Interaction Logs: 
+Person: 5 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 31
+Interaction Logs: 
+Person: 5 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 35
+Interaction Logs: 
+Person: 5 did not infect Person: 98
+Interaction Logs: 
+Person: 5 did not infect Person: 99
+Interaction Logs: 
+Person: 5 did not infect Person: 66
+Interaction Logs: 
+Person: 5 did not infect Person: 62
+Interaction Logs: 
+Person: 5 did not infect Person: 80
+Interaction Logs: 
+Person: 5 did not infect Person: 30
+Interaction Logs: 
+Person: 5 did not infect Person: 35
+Interaction Logs: 
+Person: 5 did not infect Person: 56
+Interaction Logs: 
+Person: 5 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 91
+Interaction Logs: 
+Person: 5 did not infect Person: 36
+Interaction Logs: 
+Person: 5 did not infect Person: 30
+Interaction Logs: 
+Person: 5 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 42
+Interaction Logs: 
+Person: 5 did not infect Person: 40
+Interaction Logs: 
+Person: 5 did not infect Person: 69
+Interaction Logs: 
+Person: 5 did not infect Person: 10
+Interaction Logs: 
+Person: 5 did not infect Person: 17
+Interaction Logs: 
+Person: 5 did not infect Person: 19
+Interaction Logs: 
+Person: 5 did not infect Person: 29
+Interaction Logs: 
+Person: 5 did not infect Person: 49
+Interaction Logs: 
+Person: 5 did not infect Person: 88
+Interaction Logs: 
+Person: 5 did not infect Person: 19
+Interaction Logs: 
+Person: 5 did not infect Person: 90
+Interaction Logs: 
+Person: 5 did not infect Person: 27
+Interaction Logs: 
+Person: 5 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 53
+Interaction Logs: 
+Person: 5 did not infect Person: 52
+Interaction Logs: 
+Person: 5 did not infect Person: 42
+Interaction Logs: 
+Person: 5 did not infect Person: 69
+Interaction Logs: 
+Person: 5 did not infect Person: 59
+Interaction Logs: 
+Person: 5 did not infect Person: 53
+Interaction Logs: 
+Person: 5 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 26
+Interaction Logs: 
+Person: 5 did not infect Person: 53
+Interaction Logs: 
+Person: 5 did not infect Person: 49
+Interaction Logs: 
+Person: 5 did not infect Person: 98
+Interaction Logs: 
+Person: 5 did not infect Person: 74
+Interaction Logs: 
+Person: 5 did not infect Person: 89
+Interaction Logs: 
+Person: 5 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 97
+Interaction Logs: 
+Person: 5 did not infect Person: 73
+Interaction Logs: 
+Person: 5 did not infect Person: 48
+Interaction Logs: 
+Person: 5 did not infect Person: 61
+Interaction Logs: 
+Person: 5 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 45
+Interaction Logs: 
+Person: 5 did not infect Person: 38
+Interaction Logs: 
+Person: 5 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 49
+Interaction Logs: 
+Person: 5 did not infect Person: 53
+Interaction Logs: 
+Person: 5 did not infect Person: 68
+Interaction Logs: 
+Person: 5 did not infect Person: 95
+Interaction Logs: 
+Person: 5 did not infect Person: 94
+Interaction Logs: 
+Person: 5 did not infect Person: 69
+Interaction Logs: 
+Person: 5 did not infect Person: 77
+Interaction Logs: 
+Person: 5 did not infect Person: 28
+Interaction Logs: 
+Person: 6 did not infect Person: 62
+Interaction Logs: 
+Person: 6 did not infect Person: 28
+Interaction Logs: 
+Person: 6 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 55
+Interaction Logs: 
+Person: 6 did not infect Person: 62
+Interaction Logs: 
+Person: 6 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 49
+Interaction Logs: 
+Person: 6 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 85
+Interaction Logs: 
+Person: 6 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 51
+Interaction Logs: 
+Person: 6 did not infect Person: 92
+Interaction Logs: 
+Person: 6 did not infect Person: 21
+Interaction Logs: 
+Person: 6 did not infect Person: 59
+Interaction Logs: 
+Person: 6 did not infect Person: 16
+Interaction Logs: 
+Person: 6 did not infect Person: 79
+Interaction Logs: 
+Person: 6 did not infect Person: 68
+Interaction Logs: 
+Person: 6 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 50
+Interaction Logs: 
+Person: 6 did not infect Person: 75
+Interaction Logs: 
+Person: 6 did not infect Person: 72
+Interaction Logs: 
+Person: 6 did not infect Person: 84
+Interaction Logs: 
+Person: 6 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 10
+Interaction Logs: 
+Person: 6 did not infect Person: 82
+Interaction Logs: 
+Person: 6 did not infect Person: 54
+Interaction Logs: 
+Person: 6 did not infect Person: 17
+Interaction Logs: 
+Person: 6 did not infect Person: 59
+Interaction Logs: 
+Person: 6 did not infect Person: 23
+Interaction Logs: 
+Person: 6 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 33
+Interaction Logs: 
+Person: 6 did not infect Person: 48
+Interaction Logs: 
+Person: 6 did not infect Person: 41
+Interaction Logs: 
+Person: 6 did not infect Person: 27
+Interaction Logs: 
+Person: 6 did not infect Person: 58
+Interaction Logs: 
+Person: 6 did not infect Person: 41
+Interaction Logs: 
+Person: 6 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 97
+Interaction Logs: 
+Person: 6 did not infect Person: 48
+Interaction Logs: 
+Person: 6 did not infect Person: 35
+Interaction Logs: 
+Person: 6 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 53
+Interaction Logs: 
+Person: 6 did not infect Person: 32
+Interaction Logs: 
+Person: 6 did not infect Person: 10
+Interaction Logs: 
+Person: 6 did not infect Person: 60
+Interaction Logs: 
+Person: 6 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 95
+Interaction Logs: 
+Person: 6 did not infect Person: 69
+Interaction Logs: 
+Person: 6 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 44
+Interaction Logs: 
+Person: 6 did not infect Person: 28
+Interaction Logs: 
+Person: 6 did not infect Person: 83
+Interaction Logs: 
+Person: 6 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 99
+Interaction Logs: 
+Person: 6 did not infect Person: 83
+Interaction Logs: 
+Person: 6 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 31
+Interaction Logs: 
+Person: 6 did not infect Person: 25
+Interaction Logs: 
+Person: 6 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 79
+Interaction Logs: 
+Person: 6 did not infect Person: 19
+Interaction Logs: 
+Person: 6 did not infect Person: 30
+Interaction Logs: 
+Person: 6 did not infect Person: 16
+Interaction Logs: 
+Person: 6 did not infect Person: 60
+Interaction Logs: 
+Person: 6 did not infect Person: 85
+Interaction Logs: 
+Person: 6 did not infect Person: 14
+Interaction Logs: 
+Person: 6 did not infect Person: 72
+Interaction Logs: 
+Person: 6 did not infect Person: 27
+Interaction Logs: 
+Person: 6 did not infect Person: 59
+Interaction Logs: 
+Person: 6 did not infect Person: 89
+Interaction Logs: 
+Person: 6 did not infect Person: 32
+Interaction Logs: 
+Person: 6 did not infect Person: 98
+Interaction Logs: 
+Person: 6 did not infect Person: 47
+Interaction Logs: 
+Person: 6 did not infect Person: 21
+Interaction Logs: 
+Person: 6 did not infect Person: 77
+Interaction Logs: 
+Person: 6 did not infect Person: 77
+Interaction Logs: 
+Person: 6 did not infect Person: 95
+Interaction Logs: 
+Person: 6 did not infect Person: 91
+Interaction Logs: 
+Person: 6 did not infect Person: 14
+Interaction Logs: 
+Person: 6 did not infect Person: 99
+Interaction Logs: 
+Person: 6 did not infect Person: 20
+Interaction Logs: 
+Person: 6 did not infect Person: 39
+Interaction Logs: 
+Person: 6 did not infect Person: 13
+Interaction Logs: 
+Person: 6 did not infect Person: 74
+Interaction Logs: 
+Person: 6 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 39
+Interaction Logs: 
+Person: 6 did not infect Person: 73
+Interaction Logs: 
+Person: 6 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 48
+Interaction Logs: 
+Person: 6 did not infect Person: 50
+Interaction Logs: 
+Person: 6 did not infect Person: 91
+Interaction Logs: 
+Person: 6 did not infect Person: 25
+Interaction Logs: 
+Person: 6 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 75
+Interaction Logs: 
+Person: 6 did not infect Person: 88
+Interaction Logs: 
+Person: 6 did not infect Person: 80
+Interaction Logs: 
+Person: 6 did not infect Person: 31
+Interaction Logs: 
+Person: 6 did not infect Person: 13
+Interaction Logs: 
+Person: 7 did not infect Person: 89
+Interaction Logs: 
+Person: 7 did not infect Person: 98
+Interaction Logs: 
+Person: 7 did not infect Person: 38
+Interaction Logs: 
+Person: 7 did not infect Person: 87
+Interaction Logs: 
+Person: 7 did not infect Person: 76
+Interaction Logs: 
+Person: 7 did not infect Person: 15
+Interaction Logs: 
+Person: 7 did not infect Person: 72
+Interaction Logs: 
+Person: 7 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 44
+Interaction Logs: 
+Person: 7 did not infect Person: 68
+Interaction Logs: 
+Person: 7 did not infect Person: 54
+Interaction Logs: 
+Person: 7 did not infect Person: 84
+Interaction Logs: 
+Person: 7 did not infect Person: 47
+Interaction Logs: 
+Person: 7 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 64
+Interaction Logs: 
+Person: 7 did not infect Person: 82
+Interaction Logs: 
+Person: 7 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 53
+Interaction Logs: 
+Person: 7 did not infect Person: 62
+Interaction Logs: 
+Person: 7 did not infect Person: 13
+Interaction Logs: 
+Person: 7 did not infect Person: 55
+Interaction Logs: 
+Person: 7 did not infect Person: 46
+Interaction Logs: 
+Person: 7 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 58
+Interaction Logs: 
+Person: 7 did not infect Person: 90
+Interaction Logs: 
+Person: 7 did not infect Person: 19
+Interaction Logs: 
+Person: 7 did not infect Person: 55
+Interaction Logs: 
+Person: 7 did not infect Person: 22
+Interaction Logs: 
+Person: 7 did not infect Person: 93
+Interaction Logs: 
+Person: 7 did not infect Person: 66
+Interaction Logs: 
+Person: 7 did not infect Person: 83
+Interaction Logs: 
+Person: 7 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 78
+Interaction Logs: 
+Person: 7 did not infect Person: 68
+Interaction Logs: 
+Person: 7 did not infect Person: 99
+Interaction Logs: 
+Person: 7 did not infect Person: 61
+Interaction Logs: 
+Person: 7 did not infect Person: 59
+Interaction Logs: 
+Person: 7 did not infect Person: 55
+Interaction Logs: 
+Person: 7 did not infect Person: 93
+Interaction Logs: 
+Person: 7 did not infect Person: 75
+Interaction Logs: 
+Person: 7 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 41
+Interaction Logs: 
+Person: 7 did not infect Person: 31
+Interaction Logs: 
+Person: 7 did not infect Person: 11
+Interaction Logs: 
+Person: 7 did not infect Person: 35
+Interaction Logs: 
+Person: 7 did not infect Person: 57
+Interaction Logs: 
+Person: 7 did not infect Person: 31
+Interaction Logs: 
+Person: 7 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 59
+Interaction Logs: 
+Person: 7 did not infect Person: 72
+Interaction Logs: 
+Person: 7 did not infect Person: 78
+Interaction Logs: 
+Person: 7 did not infect Person: 85
+Interaction Logs: 
+Person: 7 did not infect Person: 48
+Interaction Logs: 
+Person: 7 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 41
+Interaction Logs: 
+Person: 7 did not infect Person: 23
+Interaction Logs: 
+Person: 7 did not infect Person: 62
+Interaction Logs: 
+Person: 7 did not infect Person: 27
+Interaction Logs: 
+Person: 7 did not infect Person: 45
+Interaction Logs: 
+Person: 7 did not infect Person: 33
+Interaction Logs: 
+Person: 7 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 35
+Interaction Logs: 
+Person: 7 did not infect Person: 76
+Interaction Logs: 
+Person: 7 did not infect Person: 89
+Interaction Logs: 
+Person: 7 did not infect Person: 35
+Interaction Logs: 
+Person: 7 did not infect Person: 71
+Interaction Logs: 
+Person: 7 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 66
+Interaction Logs: 
+Person: 7 did not infect Person: 24
+Interaction Logs: 
+Person: 7 did not infect Person: 10
+Interaction Logs: 
+Person: 7 did not infect Person: 30
+Interaction Logs: 
+Person: 7 did not infect Person: 92
+Interaction Logs: 
+Person: 7 did not infect Person: 52
+Interaction Logs: 
+Person: 7 did not infect Person: 62
+Interaction Logs: 
+Person: 7 did not infect Person: 71
+Interaction Logs: 
+Person: 7 did not infect Person: 97
+Interaction Logs: 
+Person: 7 did not infect Person: 30
+Interaction Logs: 
+Person: 7 did not infect Person: 88
+Interaction Logs: 
+Person: 7 did not infect Person: 60
+Interaction Logs: 
+Person: 7 did not infect Person: 82
+Interaction Logs: 
+Person: 7 did not infect Person: 91
+Interaction Logs: 
+Person: 7 did not infect Person: 62
+Interaction Logs: 
+Person: 7 did not infect Person: 57
+Interaction Logs: 
+Person: 7 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 11
+Interaction Logs: 
+Person: 7 did not infect Person: 37
+Interaction Logs: 
+Person: 7 did not infect Person: 28
+Interaction Logs: 
+Person: 7 did not infect Person: 51
+Interaction Logs: 
+Person: 7 did not infect Person: 88
+Interaction Logs: 
+Person: 7 did not infect Person: 31
+Interaction Logs: 
+Person: 7 did not infect Person: 39
+Interaction Logs: 
+Person: 7 did not infect Person: 84
+Interaction Logs: 
+Person: 7 did not infect Person: 74
+Interaction Logs: 
+Person: 7 did not infect Person: 47
+Interaction Logs: 
+Person: 7 did not infect Person: 60
+Interaction Logs: 
+Person: 7 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 67
+Interaction Logs: 
+Person: 8 did not infect Person: 44
+Interaction Logs: 
+Person: 8 did not infect Person: 54
+Interaction Logs: 
+Person: 8 did not infect Person: 95
+Interaction Logs: 
+Person: 8 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 42
+Interaction Logs: 
+Person: 8 did not infect Person: 45
+Interaction Logs: 
+Person: 8 did not infect Person: 89
+Interaction Logs: 
+Person: 8 did not infect Person: 58
+Interaction Logs: 
+Person: 8 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 39
+Interaction Logs: 
+Person: 8 did not infect Person: 32
+Interaction Logs: 
+Person: 8 did not infect Person: 29
+Interaction Logs: 
+Person: 8 did not infect Person: 15
+Interaction Logs: 
+Person: 8 did not infect Person: 92
+Interaction Logs: 
+Person: 8 did not infect Person: 24
+Interaction Logs: 
+Person: 8 did not infect Person: 40
+Interaction Logs: 
+Person: 8 did not infect Person: 15
+Interaction Logs: 
+Person: 8 did not infect Person: 95
+Interaction Logs: 
+Person: 8 did not infect Person: 68
+Interaction Logs: 
+Person: 8 did not infect Person: 97
+Interaction Logs: 
+Person: 8 did not infect Person: 88
+Interaction Logs: 
+Person: 8 did not infect Person: 23
+Interaction Logs: 
+Person: 8 did not infect Person: 24
+Interaction Logs: 
+Person: 8 did not infect Person: 27
+Interaction Logs: 
+Person: 8 did not infect Person: 94
+Interaction Logs: 
+Person: 8 did not infect Person: 61
+Interaction Logs: 
+Person: 8 did not infect Person: 35
+Interaction Logs: 
+Person: 8 did not infect Person: 92
+Interaction Logs: 
+Person: 8 did not infect Person: 75
+Interaction Logs: 
+Person: 8 did not infect Person: 97
+Interaction Logs: 
+Person: 8 did not infect Person: 67
+Interaction Logs: 
+Person: 8 did not infect Person: 76
+Interaction Logs: 
+Person: 8 did not infect Person: 36
+Interaction Logs: 
+Person: 8 did not infect Person: 12
+Interaction Logs: 
+Person: 8 did not infect Person: 24
+Interaction Logs: 
+Person: 8 did not infect Person: 37
+Interaction Logs: 
+Person: 8 did not infect Person: 29
+Interaction Logs: 
+Person: 8 did not infect Person: 46
+Interaction Logs: 
+Person: 8 did not infect Person: 22
+Interaction Logs: 
+Person: 8 did not infect Person: 38
+Interaction Logs: 
+Person: 8 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 90
+Interaction Logs: 
+Person: 8 did not infect Person: 68
+Interaction Logs: 
+Person: 8 did not infect Person: 16
+Interaction Logs: 
+Person: 8 did not infect Person: 35
+Interaction Logs: 
+Person: 8 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 37
+Interaction Logs: 
+Person: 8 did not infect Person: 89
+Interaction Logs: 
+Person: 8 did not infect Person: 16
+Interaction Logs: 
+Person: 8 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 62
+Interaction Logs: 
+Person: 8 did not infect Person: 13
+Interaction Logs: 
+Person: 8 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 73
+Interaction Logs: 
+Person: 8 did not infect Person: 36
+Interaction Logs: 
+Person: 8 did not infect Person: 60
+Interaction Logs: 
+Person: 8 did not infect Person: 61
+Interaction Logs: 
+Person: 8 did not infect Person: 56
+Interaction Logs: 
+Person: 8 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 23
+Interaction Logs: 
+Person: 8 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 32
+Interaction Logs: 
+Person: 8 did not infect Person: 61
+Interaction Logs: 
+Person: 8 did not infect Person: 14
+Interaction Logs: 
+Person: 8 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 51
+Interaction Logs: 
+Person: 8 did not infect Person: 62
+Interaction Logs: 
+Person: 8 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 73
+Interaction Logs: 
+Person: 8 did not infect Person: 80
+Interaction Logs: 
+Person: 8 did not infect Person: 87
+Interaction Logs: 
+Person: 8 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 19
+Interaction Logs: 
+Person: 8 did not infect Person: 19
+Interaction Logs: 
+Person: 8 did not infect Person: 72
+Interaction Logs: 
+Person: 8 did not infect Person: 38
+Interaction Logs: 
+Person: 8 did not infect Person: 10
+Interaction Logs: 
+Person: 8 did not infect Person: 31
+Interaction Logs: 
+Person: 8 did not infect Person: 15
+Interaction Logs: 
+Person: 8 did not infect Person: 71
+Interaction Logs: 
+Person: 8 did not infect Person: 97
+Interaction Logs: 
+Person: 8 did not infect Person: 53
+Interaction Logs: 
+Person: 8 did not infect Person: 77
+Interaction Logs: 
+Person: 8 did not infect Person: 76
+Interaction Logs: 
+Person: 8 did not infect Person: 79
+Interaction Logs: 
+Person: 8 did not infect Person: 28
+Interaction Logs: 
+Person: 8 did not infect Person: 99
+Interaction Logs: 
+Person: 8 did not infect Person: 66
+Interaction Logs: 
+Person: 8 did not infect Person: 48
+Interaction Logs: 
+Person: 8 did not infect Person: 57
+Interaction Logs: 
+Person: 8 did not infect Person: 56
+Interaction Logs: 
+Person: 8 did not infect Person: 38
+Interaction Logs: 
+Person: 8 did not infect Person: 75
+Interaction Logs: 
+Person: 8 did not infect Person: 54
+Interaction Logs: 
+Person: 8 did not infect Person: 39
+Interaction Logs: 
+Person: 8 did not infect Person: 72
+Interaction Logs: 
+Person: 8 did not infect Person: 79
+Interaction Logs: 
+Person: 9 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 78
+Interaction Logs: 
+Person: 9 did not infect Person: 94
+Interaction Logs: 
+Person: 9 did not infect Person: 12
+Interaction Logs: 
+Person: 9 did not infect Person: 97
+Interaction Logs: 
+Person: 9 did not infect Person: 26
+Interaction Logs: 
+Person: 9 did not infect Person: 80
+Interaction Logs: 
+Person: 9 did not infect Person: 27
+Interaction Logs: 
+Person: 9 did not infect Person: 33
+Interaction Logs: 
+Person: 9 did not infect Person: 84
+Interaction Logs: 
+Person: 9 did not infect Person: 10
+Interaction Logs: 
+Person: 9 did not infect Person: 20
+Interaction Logs: 
+Person: 9 did not infect Person: 30
+Interaction Logs: 
+Person: 9 did not infect Person: 22
+Interaction Logs: 
+Person: 9 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 20
+Interaction Logs: 
+Person: 9 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 52
+Interaction Logs: 
+Person: 9 did not infect Person: 57
+Interaction Logs: 
+Person: 9 did not infect Person: 88
+Interaction Logs: 
+Person: 9 did not infect Person: 76
+Interaction Logs: 
+Person: 9 did not infect Person: 60
+Interaction Logs: 
+Person: 9 did not infect Person: 37
+Interaction Logs: 
+Person: 9 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 29
+Interaction Logs: 
+Person: 9 did not infect Person: 36
+Interaction Logs: 
+Person: 9 did not infect Person: 90
+Interaction Logs: 
+Person: 9 did not infect Person: 36
+Interaction Logs: 
+Person: 9 did not infect Person: 89
+Interaction Logs: 
+Person: 9 did not infect Person: 58
+Interaction Logs: 
+Person: 9 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 87
+Interaction Logs: 
+Person: 9 did not infect Person: 29
+Interaction Logs: 
+Person: 9 did not infect Person: 33
+Interaction Logs: 
+Person: 9 did not infect Person: 80
+Interaction Logs: 
+Person: 9 did not infect Person: 75
+Interaction Logs: 
+Person: 9 did not infect Person: 84
+Interaction Logs: 
+Person: 9 did not infect Person: 25
+Interaction Logs: 
+Person: 9 did not infect Person: 54
+Interaction Logs: 
+Person: 9 did not infect Person: 14
+Interaction Logs: 
+Person: 9 did not infect Person: 69
+Interaction Logs: 
+Person: 9 did not infect Person: 28
+Interaction Logs: 
+Person: 9 did not infect Person: 82
+Interaction Logs: 
+Person: 9 did not infect Person: 19
+Interaction Logs: 
+Person: 9 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 18
+Interaction Logs: 
+Person: 9 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 21
+Interaction Logs: 
+Person: 9 did not infect Person: 39
+Interaction Logs: 
+Person: 9 did not infect Person: 76
+Interaction Logs: 
+Person: 9 did not infect Person: 95
+Interaction Logs: 
+Person: 9 did not infect Person: 72
+Interaction Logs: 
+Person: 9 did not infect Person: 36
+Interaction Logs: 
+Person: 9 did not infect Person: 56
+Interaction Logs: 
+Person: 9 did not infect Person: 15
+Interaction Logs: 
+Person: 9 did not infect Person: 59
+Interaction Logs: 
+Person: 9 did not infect Person: 88
+Interaction Logs: 
+Person: 9 did not infect Person: 38
+Interaction Logs: 
+Person: 9 did not infect Person: 89
+Interaction Logs: 
+Person: 9 did not infect Person: 51
+Interaction Logs: 
+Person: 9 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 64
+Interaction Logs: 
+Person: 9 did not infect Person: 69
+Interaction Logs: 
+Person: 9 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 56
+Interaction Logs: 
+Person: 9 did not infect Person: 10
+Interaction Logs: 
+Person: 9 did not infect Person: 76
+Interaction Logs: 
+Person: 9 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 55
+Interaction Logs: 
+Person: 9 did not infect Person: 94
+Interaction Logs: 
+Person: 9 did not infect Person: 41
+Interaction Logs: 
+Person: 9 did not infect Person: 77
+Interaction Logs: 
+Person: 9 did not infect Person: 32
+Interaction Logs: 
+Person: 9 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 11
+Interaction Logs: 
+Person: 9 did not infect Person: 29
+Interaction Logs: 
+Person: 9 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 73
+Interaction Logs: 
+Person: 9 did not infect Person: 75
+Interaction Logs: 
+Person: 9 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 97
+Interaction Logs: 
+Person: 9 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 73
+Interaction Logs: 
+Person: 9 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 97
+Interaction Logs: 
+Person: 9 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 22
+Interaction Logs: 
+Person: 9 did not infect Person: 60
+Interaction Logs: 
+Person: 9 did not infect Person: 66
+Interaction Logs: 
+Person: 9 did not infect Person: 83
+Interaction Logs: 
+Person: 9 did not infect Person: 56
+Interaction Logs: 
+Person: 9 did not infect Person: 35
+Interaction Logs: 
+Person: 9 did not infect Person: 23
+Interaction Logs: 
+Person: 9 did not infect Person: 74
+Interaction Logs: 
+Person: 9 did not infect Person: 55
+Interaction Logs: 
+Person: 9 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 62
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Time Steps: 0 ended -- Begin 1
+Interaction Logs: 
+Person: 0 did not infect Person: 52
+Interaction Logs: 
+Person: 0 did not infect Person: 88
+Interaction Logs: 
+Person: 0 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 36
+Interaction Logs: 
+Person: 0 did not infect Person: 84
+Interaction Logs: 
+Person: 0 did not infect Person: 51
+Interaction Logs: 
+Person: 0 did not infect Person: 97
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 58
+Interaction Logs: 
+Person: 0 did not infect Person: 11
+Interaction Logs: 
+Person: 0 did not infect Person: 40
+Interaction Logs: 
+Person: 0 did not infect Person: 32
+Interaction Logs: 
+Person: 0 did not infect Person: 41
+Interaction Logs: 
+Person: 0 did not infect Person: 14
+Interaction Logs: 
+Person: 0 did not infect Person: 98
+Interaction Logs: 
+Person: 0 did not infect Person: 51
+Interaction Logs: 
+Person: 0 did not infect Person: 65
+Interaction Logs: 
+Person: 0 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 84
+Interaction Logs: 
+Person: 0 did not infect Person: 69
+Interaction Logs: 
+Person: 0 did not infect Person: 59
+Interaction Logs: 
+Person: 0 did not infect Person: 52
+Interaction Logs: 
+Person: 0 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 24
+Interaction Logs: 
+Person: 0 did not infect Person: 66
+Interaction Logs: 
+Person: 0 did not infect Person: 46
+Interaction Logs: 
+Person: 0 did not infect Person: 79
+Interaction Logs: 
+Person: 0 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 80
+Interaction Logs: 
+Person: 0 did not infect Person: 56
+Interaction Logs: 
+Person: 0 did not infect Person: 97
+Interaction Logs: 
+Person: 0 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 26
+Interaction Logs: 
+Person: 0 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 16
+Interaction Logs: 
+Person: 0 did not infect Person: 36
+Interaction Logs: 
+Person: 0 did not infect Person: 56
+Interaction Logs: 
+Person: 0 did not infect Person: 89
+Interaction Logs: 
+Person: 0 did not infect Person: 62
+Interaction Logs: 
+Person: 0 did not infect Person: 15
+Interaction Logs: 
+Person: 0 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 80
+Interaction Logs: 
+Person: 0 did not infect Person: 77
+Interaction Logs: 
+Person: 0 did not infect Person: 30
+Interaction Logs: 
+Person: 0 did not infect Person: 90
+Interaction Logs: 
+Person: 0 did not infect Person: 20
+Interaction Logs: 
+Person: 0 did not infect Person: 39
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 52
+Interaction Logs: 
+Person: 0 did not infect Person: 11
+Interaction Logs: 
+Person: 0 did not infect Person: 28
+Interaction Logs: 
+Person: 0 did not infect Person: 14
+Interaction Logs: 
+Person: 0 did not infect Person: 59
+Interaction Logs: 
+Person: 0 did not infect Person: 15
+Interaction Logs: 
+Person: 0 did not infect Person: 82
+Interaction Logs: 
+Person: 0 did not infect Person: 19
+Interaction Logs: 
+Person: 0 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 91
+Interaction Logs: 
+Person: 0 did not infect Person: 37
+Interaction Logs: 
+Person: 0 did not infect Person: 65
+Interaction Logs: 
+Person: 0 did not infect Person: 90
+Interaction Logs: 
+Person: 0 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 53
+Interaction Logs: 
+Person: 0 did not infect Person: 61
+Interaction Logs: 
+Person: 0 did not infect Person: 60
+Interaction Logs: 
+Person: 0 did not infect Person: 31
+Interaction Logs: 
+Person: 0 did not infect Person: 58
+Interaction Logs: 
+Person: 0 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 18
+Interaction Logs: 
+Person: 0 did not infect Person: 49
+Interaction Logs: 
+Person: 0 did not infect Person: 24
+Interaction Logs: 
+Person: 0 did not infect Person: 76
+Interaction Logs: 
+Person: 0 did not infect Person: 65
+Interaction Logs: 
+Person: 0 did not infect Person: 95
+Interaction Logs: 
+Person: 0 did not infect Person: 17
+Interaction Logs: 
+Person: 0 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 35
+Interaction Logs: 
+Person: 0 did not infect Person: 98
+Interaction Logs: 
+Person: 0 did not infect Person: 53
+Interaction Logs: 
+Person: 0 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 64
+Interaction Logs: 
+Person: 0 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 0 did not infect Person: 36
+Interaction Logs: 
+Person: 0 did not infect Person: 92
+Interaction Logs: 
+Person: 0 did not infect Person: 38
+Interaction Logs: 
+Person: 0 did not infect Person: 75
+Interaction Logs: 
+Person: 0 did not infect Person: 74
+Interaction Logs: 
+Person: 0 did not infect Person: 84
+Interaction Logs: 
+Person: 0 did not infect Person: 62
+Interaction Logs: 
+Person: 0 did not infect Person: 19
+Interaction Logs: 
+Person: 0 did not infect Person: 57
+Interaction Logs: 
+Person: 0 did not infect Person: 68
+Interaction Logs: 
+Person: 0 did not infect Person: 61
+Interaction Logs: 
+Person: 0 did not infect Person: 44
+Interaction Logs: 
+Person: 1 did not infect Person: 42
+Interaction Logs: 
+Person: 1 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 97
+Interaction Logs: 
+Person: 1 did not infect Person: 69
+Interaction Logs: 
+Person: 1 did not infect Person: 48
+Interaction Logs: 
+Person: 1 did not infect Person: 58
+Interaction Logs: 
+Person: 1 did not infect Person: 41
+Interaction Logs: 
+Person: 1 did not infect Person: 24
+Interaction Logs: 
+Person: 1 did not infect Person: 89
+Interaction Logs: 
+Person: 1 did not infect Person: 30
+Interaction Logs: 
+Person: 1 did not infect Person: 73
+Interaction Logs: 
+Person: 1 did not infect Person: 49
+Interaction Logs: 
+Person: 1 did not infect Person: 29
+Interaction Logs: 
+Person: 1 did not infect Person: 99
+Interaction Logs: 
+Person: 1 did not infect Person: 52
+Interaction Logs: 
+Person: 1 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 40
+Interaction Logs: 
+Person: 1 did not infect Person: 95
+Interaction Logs: 
+Person: 1 did not infect Person: 60
+Interaction Logs: 
+Person: 1 did not infect Person: 90
+Interaction Logs: 
+Person: 1 did not infect Person: 48
+Interaction Logs: 
+Person: 1 did not infect Person: 49
+Interaction Logs: 
+Person: 1 did not infect Person: 84
+Interaction Logs: 
+Person: 1 did not infect Person: 83
+Interaction Logs: 
+Person: 1 did not infect Person: 19
+Interaction Logs: 
+Person: 1 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 16
+Interaction Logs: 
+Person: 1 did not infect Person: 64
+Interaction Logs: 
+Person: 1 did not infect Person: 75
+Interaction Logs: 
+Person: 1 did not infect Person: 42
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect Person: 56
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect Person: 67
+Interaction Logs: 
+Person: 1 did not infect Person: 58
+Interaction Logs: 
+Person: 1 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 92
+Interaction Logs: 
+Person: 1 did not infect Person: 18
+Interaction Logs: 
+Person: 1 did not infect Person: 52
+Interaction Logs: 
+Person: 1 did not infect Person: 83
+Interaction Logs: 
+Person: 1 did not infect Person: 19
+Interaction Logs: 
+Person: 1 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 60
+Interaction Logs: 
+Person: 1 did not infect Person: 33
+Interaction Logs: 
+Person: 1 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 79
+Interaction Logs: 
+Person: 1 did not infect Person: 88
+Interaction Logs: 
+Person: 1 did not infect Person: 50
+Interaction Logs: 
+Person: 1 did not infect Person: 83
+Interaction Logs: 
+Person: 1 did not infect Person: 10
+Interaction Logs: 
+Person: 1 did not infect Person: 42
+Interaction Logs: 
+Person: 1 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 68
+Interaction Logs: 
+Person: 1 did not infect Person: 48
+Interaction Logs: 
+Person: 1 did not infect Person: 40
+Interaction Logs: 
+Person: 1 did not infect Person: 80
+Interaction Logs: 
+Person: 1 did not infect Person: 91
+Interaction Logs: 
+Person: 1 did not infect Person: 97
+Interaction Logs: 
+Person: 1 did not infect Person: 62
+Interaction Logs: 
+Person: 1 did not infect Person: 69
+Interaction Logs: 
+Person: 1 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 79
+Interaction Logs: 
+Person: 1 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 30
+Interaction Logs: 
+Person: 1 did not infect Person: 80
+Interaction Logs: 
+Person: 1 did not infect Person: 87
+Interaction Logs: 
+Person: 1 did not infect Person: 36
+Interaction Logs: 
+Person: 1 did not infect Person: 29
+Interaction Logs: 
+Person: 1 did not infect Person: 95
+Interaction Logs: 
+Person: 1 did not infect Person: 11
+Interaction Logs: 
+Person: 1 did not infect Person: 55
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect Person: 97
+Interaction Logs: 
+Person: 1 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 90
+Interaction Logs: 
+Person: 1 did not infect Person: 12
+Interaction Logs: 
+Person: 1 did not infect Person: 56
+Interaction Logs: 
+Person: 1 did not infect Person: 21
+Interaction Logs: 
+Person: 1 did not infect Person: 88
+Interaction Logs: 
+Person: 1 did not infect Person: 38
+Interaction Logs: 
+Person: 1 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 41
+Interaction Logs: 
+Person: 1 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 1 did not infect Person: 37
+Interaction Logs: 
+Person: 1 did not infect Person: 45
+Interaction Logs: 
+Person: 1 did not infect Person: 47
+Interaction Logs: 
+Person: 1 did not infect Person: 55
+Interaction Logs: 
+Person: 1 did not infect Person: 18
+Interaction Logs: 
+Person: 1 did not infect Person: 31
+Interaction Logs: 
+Person: 1 did not infect Person: 67
+Interaction Logs: 
+Person: 1 did not infect Person: 52
+Interaction Logs: 
+Person: 1 did not infect Person: 72
+Interaction Logs: 
+Person: 1 did not infect Person: 87
+Interaction Logs: 
+Person: 1 did not infect Person: 23
+Interaction Logs: 
+Person: 1 did not infect Person: 21
+Interaction Logs: 
+Person: 1 did not infect Person: 22
+Interaction Logs: 
+Person: 1 did not infect Person: 10
+Interaction Logs: 
+Person: 1 did not infect Person: 78
+Interaction Logs: 
+Person: 2 did not infect Person: 48
+Interaction Logs: 
+Person: 2 did not infect Person: 79
+Interaction Logs: 
+Person: 2 did not infect Person: 87
+Interaction Logs: 
+Person: 2 did not infect Person: 30
+Interaction Logs: 
+Person: 2 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 74
+Interaction Logs: 
+Person: 2 did not infect Person: 18
+Interaction Logs: 
+Person: 2 did not infect Person: 29
+Interaction Logs: 
+Person: 2 did not infect Person: 59
+Interaction Logs: 
+Person: 2 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 32
+Interaction Logs: 
+Person: 2 did not infect Person: 58
+Interaction Logs: 
+Person: 2 did not infect Person: 32
+Interaction Logs: 
+Person: 2 did not infect Person: 85
+Interaction Logs: 
+Person: 2 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 59
+Interaction Logs: 
+Person: 2 did not infect Person: 36
+Interaction Logs: 
+Person: 2 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 69
+Interaction Logs: 
+Person: 2 did not infect Person: 20
+Interaction Logs: 
+Person: 2 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 56
+Interaction Logs: 
+Person: 2 did not infect Person: 44
+Interaction Logs: 
+Person: 2 did not infect Person: 75
+Interaction Logs: 
+Person: 2 did not infect Person: 38
+Interaction Logs: 
+Person: 2 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 54
+Interaction Logs: 
+Person: 2 did not infect Person: 88
+Interaction Logs: 
+Person: 2 did not infect Person: 32
+Interaction Logs: 
+Person: 2 did not infect Person: 58
+Interaction Logs: 
+Person: 2 did not infect Person: 38
+Interaction Logs: 
+Person: 2 did not infect Person: 25
+Interaction Logs: 
+Person: 2 did not infect Person: 49
+Interaction Logs: 
+Person: 2 did not infect Person: 61
+Interaction Logs: 
+Person: 2 did not infect Person: 13
+Interaction Logs: 
+Person: 2 did not infect Person: 30
+Interaction Logs: 
+Person: 2 did not infect Person: 48
+Interaction Logs: 
+Person: 2 did not infect Person: 73
+Interaction Logs: 
+Person: 2 did not infect Person: 45
+Interaction Logs: 
+Person: 2 did not infect Person: 73
+Interaction Logs: 
+Person: 2 did not infect Person: 37
+Interaction Logs: 
+Person: 2 did not infect Person: 89
+Interaction Logs: 
+Person: 2 did not infect Person: 37
+Interaction Logs: 
+Person: 2 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 84
+Interaction Logs: 
+Person: 2 did not infect Person: 50
+Interaction Logs: 
+Person: 2 did not infect Person: 35
+Interaction Logs: 
+Person: 2 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 72
+Interaction Logs: 
+Person: 2 did not infect Person: 87
+Interaction Logs: 
+Person: 2 did not infect Person: 99
+Interaction Logs: 
+Person: 2 did not infect Person: 95
+Interaction Logs: 
+Person: 2 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 77
+Interaction Logs: 
+Person: 2 did not infect Person: 95
+Interaction Logs: 
+Person: 2 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 36
+Interaction Logs: 
+Person: 2 did not infect Person: 99
+Interaction Logs: 
+Person: 2 did not infect Person: 29
+Interaction Logs: 
+Person: 2 did not infect Person: 77
+Interaction Logs: 
+Person: 2 did not infect Person: 45
+Interaction Logs: 
+Person: 2 did not infect Person: 28
+Interaction Logs: 
+Person: 2 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 24
+Interaction Logs: 
+Person: 2 did not infect Person: 79
+Interaction Logs: 
+Person: 2 did not infect Person: 32
+Interaction Logs: 
+Person: 2 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 92
+Interaction Logs: 
+Person: 2 did not infect Person: 98
+Interaction Logs: 
+Person: 2 did not infect Person: 84
+Interaction Logs: 
+Person: 2 did not infect Person: 87
+Interaction Logs: 
+Person: 2 did not infect Person: 17
+Interaction Logs: 
+Person: 2 did not infect Person: 80
+Interaction Logs: 
+Person: 2 did not infect Person: 12
+Interaction Logs: 
+Person: 2 did not infect Person: 80
+Interaction Logs: 
+Person: 2 did not infect Person: 82
+Interaction Logs: 
+Person: 2 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 39
+Interaction Logs: 
+Person: 2 did not infect Person: 56
+Interaction Logs: 
+Person: 2 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 74
+Interaction Logs: 
+Person: 2 did not infect Person: 46
+Interaction Logs: 
+Person: 2 did not infect Person: 93
+Interaction Logs: 
+Person: 2 did not infect Person: 16
+Interaction Logs: 
+Person: 2 did not infect Person: 11
+Interaction Logs: 
+Person: 2 did not infect Person: 37
+Interaction Logs: 
+Person: 2 did not infect Person: 41
+Interaction Logs: 
+Person: 2 did not infect Person: 95
+Interaction Logs: 
+Person: 2 did not infect Person: 53
+Interaction Logs: 
+Person: 2 did not infect Person: 22
+Interaction Logs: 
+Person: 2 did not infect Person: 25
+Interaction Logs: 
+Person: 2 did not infect Person: 16
+Interaction Logs: 
+Person: 2 did not infect Person: 69
+Interaction Logs: 
+Person: 2 did not infect Person: 46
+Interaction Logs: 
+Person: 2 did not infect Person: 67
+Interaction Logs: 
+Person: 2 did not infect Person: 64
+Interaction Logs: 
+Person: 2 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 2 did not infect Person: 21
+Interaction Logs: 
+Person: 2 did not infect Person: 32
+Interaction Logs: 
+Person: 3 did not infect Person: 61
+Interaction Logs: 
+Person: 3 did not infect Person: 37
+Interaction Logs: 
+Person: 3 did not infect Person: 95
+Interaction Logs: 
+Person: 3 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 14
+Interaction Logs: 
+Person: 3 did not infect Person: 59
+Interaction Logs: 
+Person: 3 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 18
+Interaction Logs: 
+Person: 3 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 28
+Interaction Logs: 
+Person: 3 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 92
+Interaction Logs: 
+Person: 3 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 50
+Interaction Logs: 
+Person: 3 did not infect Person: 71
+Interaction Logs: 
+Person: 3 did not infect Person: 46
+Interaction Logs: 
+Person: 3 did not infect Person: 11
+Interaction Logs: 
+Person: 3 did not infect Person: 50
+Interaction Logs: 
+Person: 3 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 33
+Interaction Logs: 
+Person: 3 did not infect Person: 68
+Interaction Logs: 
+Person: 3 did not infect Person: 15
+Interaction Logs: 
+Person: 3 did not infect Person: 58
+Interaction Logs: 
+Person: 3 did not infect Person: 47
+Interaction Logs: 
+Person: 3 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 95
+Interaction Logs: 
+Person: 3 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 33
+Interaction Logs: 
+Person: 3 did not infect Person: 74
+Interaction Logs: 
+Person: 3 did not infect Person: 48
+Interaction Logs: 
+Person: 3 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 47
+Interaction Logs: 
+Person: 3 did not infect Person: 13
+Interaction Logs: 
+Person: 3 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 29
+Interaction Logs: 
+Person: 3 did not infect Person: 60
+Interaction Logs: 
+Person: 3 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 79
+Interaction Logs: 
+Person: 3 did not infect Person: 71
+Interaction Logs: 
+Person: 3 did not infect Person: 41
+Interaction Logs: 
+Person: 3 did not infect Person: 78
+Interaction Logs: 
+Person: 3 did not infect Person: 28
+Interaction Logs: 
+Person: 3 did not infect Person: 82
+Interaction Logs: 
+Person: 3 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 59
+Interaction Logs: 
+Person: 3 did not infect Person: 89
+Interaction Logs: 
+Person: 3 did not infect Person: 38
+Interaction Logs: 
+Person: 3 did not infect Person: 83
+Interaction Logs: 
+Person: 3 did not infect Person: 52
+Interaction Logs: 
+Person: 3 did not infect Person: 14
+Interaction Logs: 
+Person: 3 did not infect Person: 17
+Interaction Logs: 
+Person: 3 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 38
+Interaction Logs: 
+Person: 3 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 14
+Interaction Logs: 
+Person: 3 did not infect Person: 12
+Interaction Logs: 
+Person: 3 did not infect Person: 30
+Interaction Logs: 
+Person: 3 did not infect Person: 68
+Interaction Logs: 
+Person: 3 did not infect Person: 17
+Interaction Logs: 
+Person: 3 did not infect Person: 49
+Interaction Logs: 
+Person: 3 did not infect Person: 58
+Interaction Logs: 
+Person: 3 did not infect Person: 47
+Interaction Logs: 
+Person: 3 did not infect Person: 85
+Interaction Logs: 
+Person: 3 did not infect Person: 95
+Interaction Logs: 
+Person: 3 did not infect Person: 89
+Interaction Logs: 
+Person: 3 did not infect Person: 69
+Interaction Logs: 
+Person: 3 did not infect Person: 53
+Interaction Logs: 
+Person: 3 did not infect Person: 75
+Interaction Logs: 
+Person: 3 did not infect Person: 95
+Interaction Logs: 
+Person: 3 did not infect Person: 93
+Interaction Logs: 
+Person: 3 did not infect Person: 19
+Interaction Logs: 
+Person: 3 did not infect Person: 53
+Interaction Logs: 
+Person: 3 did not infect Person: 83
+Interaction Logs: 
+Person: 3 did not infect Person: 12
+Interaction Logs: 
+Person: 3 did not infect Person: 62
+Interaction Logs: 
+Person: 3 did not infect Person: 78
+Interaction Logs: 
+Person: 3 did not infect Person: 52
+Interaction Logs: 
+Person: 3 did not infect Person: 35
+Interaction Logs: 
+Person: 3 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 88
+Interaction Logs: 
+Person: 3 did not infect Person: 47
+Interaction Logs: 
+Person: 3 did not infect Person: 27
+Interaction Logs: 
+Person: 3 did not infect Person: 56
+Interaction Logs: 
+Person: 3 did not infect Person: 56
+Interaction Logs: 
+Person: 3 did not infect Person: 30
+Interaction Logs: 
+Person: 3 did not infect Person: 46
+Interaction Logs: 
+Person: 3 did not infect Person: 12
+Interaction Logs: 
+Person: 3 did not infect Person: 87
+Interaction Logs: 
+Person: 3 did not infect Person: 47
+Interaction Logs: 
+Person: 3 did not infect Person: 69
+Interaction Logs: 
+Person: 3 did not infect Person: 82
+Interaction Logs: 
+Person: 3 did not infect Person: 45
+Interaction Logs: 
+Person: 3 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 3 did not infect Person: 50
+Interaction Logs: 
+Person: 3 did not infect Person: 35
+Interaction Logs: 
+Person: 3 did not infect Person: 24
+Interaction Logs: 
+Person: 3 did not infect Person: 15
+Interaction Logs: 
+Person: 3 did not infect Person: 58
+Interaction Logs: 
+Person: 4 did not infect Person: 11
+Interaction Logs: 
+Person: 4 did not infect Person: 84
+Interaction Logs: 
+Person: 4 did not infect Person: 27
+Interaction Logs: 
+Person: 4 did not infect Person: 82
+Interaction Logs: 
+Person: 4 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 76
+Interaction Logs: 
+Person: 4 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 42
+Interaction Logs: 
+Person: 4 did not infect Person: 31
+Interaction Logs: 
+Person: 4 did not infect Person: 16
+Interaction Logs: 
+Person: 4 did not infect Person: 72
+Interaction Logs: 
+Person: 4 did not infect Person: 26
+Interaction Logs: 
+Person: 4 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 97
+Interaction Logs: 
+Person: 4 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 26
+Interaction Logs: 
+Person: 4 did not infect Person: 75
+Interaction Logs: 
+Person: 4 did not infect Person: 27
+Interaction Logs: 
+Person: 4 did not infect Person: 29
+Interaction Logs: 
+Person: 4 did not infect Person: 42
+Interaction Logs: 
+Person: 4 did not infect Person: 99
+Interaction Logs: 
+Person: 4 did not infect Person: 18
+Interaction Logs: 
+Person: 4 did not infect Person: 76
+Interaction Logs: 
+Person: 4 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 35
+Interaction Logs: 
+Person: 4 did not infect Person: 18
+Interaction Logs: 
+Person: 4 did not infect Person: 16
+Interaction Logs: 
+Person: 4 did not infect Person: 69
+Interaction Logs: 
+Person: 4 did not infect Person: 32
+Interaction Logs: 
+Person: 4 did not infect Person: 22
+Interaction Logs: 
+Person: 4 did not infect Person: 14
+Interaction Logs: 
+Person: 4 did not infect Person: 84
+Interaction Logs: 
+Person: 4 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 16
+Interaction Logs: 
+Person: 4 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 45
+Interaction Logs: 
+Person: 4 did not infect Person: 30
+Interaction Logs: 
+Person: 4 did not infect Person: 75
+Interaction Logs: 
+Person: 4 did not infect Person: 41
+Interaction Logs: 
+Person: 4 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 22
+Interaction Logs: 
+Person: 4 did not infect Person: 33
+Interaction Logs: 
+Person: 4 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 16
+Interaction Logs: 
+Person: 4 did not infect Person: 94
+Interaction Logs: 
+Person: 4 did not infect Person: 53
+Interaction Logs: 
+Person: 4 did not infect Person: 67
+Interaction Logs: 
+Person: 4 did not infect Person: 14
+Interaction Logs: 
+Person: 4 did not infect Person: 95
+Interaction Logs: 
+Person: 4 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 60
+Interaction Logs: 
+Person: 4 did not infect Person: 57
+Interaction Logs: 
+Person: 4 did not infect Person: 99
+Interaction Logs: 
+Person: 4 did not infect Person: 46
+Interaction Logs: 
+Person: 4 did not infect Person: 65
+Interaction Logs: 
+Person: 4 did not infect Person: 75
+Interaction Logs: 
+Person: 4 did not infect Person: 13
+Interaction Logs: 
+Person: 4 did not infect Person: 57
+Interaction Logs: 
+Person: 4 did not infect Person: 64
+Interaction Logs: 
+Person: 4 did not infect Person: 28
+Interaction Logs: 
+Person: 4 did not infect Person: 78
+Interaction Logs: 
+Person: 4 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 93
+Interaction Logs: 
+Person: 4 did not infect Person: 84
+Interaction Logs: 
+Person: 4 did not infect Person: 66
+Interaction Logs: 
+Person: 4 did not infect Person: 38
+Interaction Logs: 
+Person: 4 did not infect Person: 58
+Interaction Logs: 
+Person: 4 did not infect Person: 82
+Interaction Logs: 
+Person: 4 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 61
+Interaction Logs: 
+Person: 4 did not infect Person: 51
+Interaction Logs: 
+Person: 4 did not infect Person: 54
+Interaction Logs: 
+Person: 4 did not infect Person: 87
+Interaction Logs: 
+Person: 4 did not infect Person: 13
+Interaction Logs: 
+Person: 4 did not infect Person: 62
+Interaction Logs: 
+Person: 4 did not infect Person: 91
+Interaction Logs: 
+Person: 4 did not infect Person: 56
+Interaction Logs: 
+Person: 4 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 10
+Interaction Logs: 
+Person: 4 did not infect Person: 41
+Interaction Logs: 
+Person: 4 did not infect Person: 77
+Interaction Logs: 
+Person: 4 did not infect Person: 18
+Interaction Logs: 
+Person: 4 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 16
+Interaction Logs: 
+Person: 4 did not infect Person: 35
+Interaction Logs: 
+Person: 4 did not infect Person: 79
+Interaction Logs: 
+Person: 4 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 74
+Interaction Logs: 
+Person: 4 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 4 did not infect Person: 91
+Interaction Logs: 
+Person: 4 did not infect Person: 41
+Interaction Logs: 
+Person: 4 did not infect Person: 48
+Interaction Logs: 
+Person: 4 did not infect Person: 76
+Interaction Logs: 
+Person: 4 did not infect Person: 67
+Interaction Logs: 
+Person: 4 did not infect Person: 37
+Interaction Logs: 
+Person: 4 did not infect Person: 58
+Interaction Logs: 
+Person: 4 did not infect Person: 64
+Interaction Logs: 
+Person: 4 did not infect Person: 77
+Interaction Logs: 
+Person: 5 did not infect Person: 55
+Interaction Logs: 
+Person: 5 did not infect Person: 12
+Interaction Logs: 
+Person: 5 did not infect Person: 89
+Interaction Logs: 
+Person: 5 did not infect Person: 14
+Interaction Logs: 
+Person: 5 did not infect Person: 83
+Interaction Logs: 
+Person: 5 did not infect Person: 83
+Interaction Logs: 
+Person: 5 did not infect Person: 98
+Interaction Logs: 
+Person: 5 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 92
+Interaction Logs: 
+Person: 5 did not infect Person: 27
+Interaction Logs: 
+Person: 5 did not infect Person: 55
+Interaction Logs: 
+Person: 5 did not infect Person: 57
+Interaction Logs: 
+Person: 5 did not infect Person: 29
+Interaction Logs: 
+Person: 5 did not infect Person: 52
+Interaction Logs: 
+Person: 5 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 58
+Interaction Logs: 
+Person: 5 did not infect Person: 51
+Interaction Logs: 
+Person: 5 did not infect Person: 53
+Interaction Logs: 
+Person: 5 did not infect Person: 93
+Interaction Logs: 
+Person: 5 did not infect Person: 12
+Interaction Logs: 
+Person: 5 did not infect Person: 40
+Interaction Logs: 
+Person: 5 did not infect Person: 54
+Interaction Logs: 
+Person: 5 did not infect Person: 40
+Interaction Logs: 
+Person: 5 did not infect Person: 85
+Interaction Logs: 
+Person: 5 did not infect Person: 32
+Interaction Logs: 
+Person: 5 did not infect Person: 47
+Interaction Logs: 
+Person: 5 did not infect Person: 19
+Interaction Logs: 
+Person: 5 did not infect Person: 87
+Interaction Logs: 
+Person: 5 did not infect Person: 60
+Interaction Logs: 
+Person: 5 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 11
+Interaction Logs: 
+Person: 5 did not infect Person: 10
+Interaction Logs: 
+Person: 5 did not infect Person: 11
+Interaction Logs: 
+Person: 5 did not infect Person: 55
+Interaction Logs: 
+Person: 5 did not infect Person: 12
+Interaction Logs: 
+Person: 5 did not infect Person: 95
+Interaction Logs: 
+Person: 5 did not infect Person: 94
+Interaction Logs: 
+Person: 5 did not infect Person: 47
+Interaction Logs: 
+Person: 5 did not infect Person: 16
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 75
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect Person: 42
+Interaction Logs: 
+Person: 5 did not infect Person: 85
+Interaction Logs: 
+Person: 5 did not infect Person: 15
+Interaction Logs: 
+Person: 5 did not infect Person: 52
+Interaction Logs: 
+Person: 5 did not infect Person: 45
+Interaction Logs: 
+Person: 5 did not infect Person: 85
+Interaction Logs: 
+Person: 5 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 54
+Interaction Logs: 
+Person: 5 did not infect Person: 92
+Interaction Logs: 
+Person: 5 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 36
+Interaction Logs: 
+Person: 5 did not infect Person: 76
+Interaction Logs: 
+Person: 5 did not infect Person: 39
+Interaction Logs: 
+Person: 5 did not infect Person: 45
+Interaction Logs: 
+Person: 5 did not infect Person: 13
+Interaction Logs: 
+Person: 5 did not infect Person: 73
+Interaction Logs: 
+Person: 5 did not infect Person: 64
+Interaction Logs: 
+Person: 5 did not infect Person: 27
+Interaction Logs: 
+Person: 5 did not infect Person: 19
+Interaction Logs: 
+Person: 5 did not infect Person: 84
+Interaction Logs: 
+Person: 5 did not infect Person: 61
+Interaction Logs: 
+Person: 5 did not infect Person: 28
+Interaction Logs: 
+Person: 5 did not infect Person: 13
+Interaction Logs: 
+Person: 5 did not infect Person: 44
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect Person: 47
+Interaction Logs: 
+Person: 5 did not infect Person: 14
+Interaction Logs: 
+Person: 5 did not infect Person: 97
+Interaction Logs: 
+Person: 5 did not infect Person: 35
+Interaction Logs: 
+Person: 5 did not infect Person: 73
+Interaction Logs: 
+Person: 5 did not infect Person: 28
+Interaction Logs: 
+Person: 5 did not infect Person: 54
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect Person: 98
+Interaction Logs: 
+Person: 5 did not infect Person: 79
+Interaction Logs: 
+Person: 5 did not infect Person: 78
+Interaction Logs: 
+Person: 5 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 82
+Interaction Logs: 
+Person: 5 did not infect Person: 71
+Interaction Logs: 
+Person: 5 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 77
+Interaction Logs: 
+Person: 5 did not infect Person: 84
+Interaction Logs: 
+Person: 5 did not infect Person: 88
+Interaction Logs: 
+Person: 5 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 23
+Interaction Logs: 
+Person: 5 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 89
+Interaction Logs: 
+Person: 5 did not infect Person: 97
+Interaction Logs: 
+Person: 5 did not infect Person: 39
+Interaction Logs: 
+Person: 5 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 44
+Interaction Logs: 
+Person: 5 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 5 did not infect Person: 23
+Interaction Logs: 
+Person: 5 did not infect Person: 18
+Interaction Logs: 
+Person: 5 did not infect Person: 72
+Interaction Logs: 
+Person: 6 did not infect Person: 84
+Interaction Logs: 
+Person: 6 did not infect Person: 51
+Interaction Logs: 
+Person: 6 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 18
+Interaction Logs: 
+Person: 6 did not infect Person: 94
+Interaction Logs: 
+Person: 6 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 11
+Interaction Logs: 
+Person: 6 did not infect Person: 95
+Interaction Logs: 
+Person: 6 did not infect Person: 67
+Interaction Logs: 
+Person: 6 did not infect Person: 27
+Interaction Logs: 
+Person: 6 did not infect Person: 48
+Interaction Logs: 
+Person: 6 did not infect Person: 53
+Interaction Logs: 
+Person: 6 did not infect Person: 58
+Interaction Logs: 
+Person: 6 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 20
+Interaction Logs: 
+Person: 6 did not infect Person: 47
+Interaction Logs: 
+Person: 6 did not infect Person: 39
+Interaction Logs: 
+Person: 6 did not infect Person: 92
+Interaction Logs: 
+Person: 6 did not infect Person: 41
+Interaction Logs: 
+Person: 6 did not infect Person: 99
+Interaction Logs: 
+Person: 6 did not infect Person: 72
+Interaction Logs: 
+Person: 6 did not infect Person: 76
+Interaction Logs: 
+Person: 6 did not infect Person: 10
+Interaction Logs: 
+Person: 6 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 19
+Interaction Logs: 
+Person: 6 did not infect Person: 20
+Interaction Logs: 
+Person: 6 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 79
+Interaction Logs: 
+Person: 6 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 10
+Interaction Logs: 
+Person: 6 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 56
+Interaction Logs: 
+Person: 6 did not infect Person: 84
+Interaction Logs: 
+Person: 6 did not infect Person: 54
+Interaction Logs: 
+Person: 6 did not infect Person: 62
+Interaction Logs: 
+Person: 6 did not infect Person: 77
+Interaction Logs: 
+Person: 6 did not infect Person: 56
+Interaction Logs: 
+Person: 6 did not infect Person: 53
+Interaction Logs: 
+Person: 6 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 27
+Interaction Logs: 
+Person: 6 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 65
+Interaction Logs: 
+Person: 6 did not infect Person: 14
+Interaction Logs: 
+Person: 6 did not infect Person: 44
+Interaction Logs: 
+Person: 6 did not infect Person: 55
+Interaction Logs: 
+Person: 6 did not infect Person: 14
+Interaction Logs: 
+Person: 6 did not infect Person: 36
+Interaction Logs: 
+Person: 6 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 75
+Interaction Logs: 
+Person: 6 did not infect Person: 62
+Interaction Logs: 
+Person: 6 did not infect Person: 67
+Interaction Logs: 
+Person: 6 did not infect Person: 85
+Interaction Logs: 
+Person: 6 did not infect Person: 39
+Interaction Logs: 
+Person: 6 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 28
+Interaction Logs: 
+Person: 6 did not infect Person: 50
+Interaction Logs: 
+Person: 6 did not infect Person: 76
+Interaction Logs: 
+Person: 6 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 26
+Interaction Logs: 
+Person: 6 did not infect Person: 38
+Interaction Logs: 
+Person: 6 did not infect Person: 27
+Interaction Logs: 
+Person: 6 did not infect Person: 98
+Interaction Logs: 
+Person: 6 did not infect Person: 17
+Interaction Logs: 
+Person: 6 did not infect Person: 97
+Interaction Logs: 
+Person: 6 did not infect Person: 32
+Interaction Logs: 
+Person: 6 did not infect Person: 37
+Interaction Logs: 
+Person: 6 did not infect Person: 41
+Interaction Logs: 
+Person: 6 did not infect Person: 15
+Interaction Logs: 
+Person: 6 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 95
+Interaction Logs: 
+Person: 6 did not infect Person: 55
+Interaction Logs: 
+Person: 6 did not infect Person: 22
+Interaction Logs: 
+Person: 6 did not infect Person: 16
+Interaction Logs: 
+Person: 6 did not infect Person: 48
+Interaction Logs: 
+Person: 6 did not infect Person: 68
+Interaction Logs: 
+Person: 6 did not infect Person: 90
+Interaction Logs: 
+Person: 6 did not infect Person: 29
+Interaction Logs: 
+Person: 6 did not infect Person: 64
+Interaction Logs: 
+Person: 6 did not infect Person: 71
+Interaction Logs: 
+Person: 6 did not infect Person: 85
+Interaction Logs: 
+Person: 6 did not infect Person: 45
+Interaction Logs: 
+Person: 6 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 50
+Interaction Logs: 
+Person: 6 did not infect Person: 94
+Interaction Logs: 
+Person: 6 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 55
+Interaction Logs: 
+Person: 6 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 58
+Interaction Logs: 
+Person: 6 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 6 did not infect Person: 40
+Interaction Logs: 
+Person: 6 did not infect Person: 73
+Interaction Logs: 
+Person: 6 did not infect Person: 54
+Interaction Logs: 
+Person: 6 did not infect Person: 73
+Interaction Logs: 
+Person: 6 did not infect Person: 51
+Interaction Logs: 
+Person: 6 did not infect Person: 90
+Interaction Logs: 
+Person: 7 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 53
+Interaction Logs: 
+Person: 7 did not infect Person: 37
+Interaction Logs: 
+Person: 7 did not infect Person: 14
+Interaction Logs: 
+Person: 7 did not infect Person: 51
+Interaction Logs: 
+Person: 7 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 41
+Interaction Logs: 
+Person: 7 did not infect Person: 21
+Interaction Logs: 
+Person: 7 did not infect Person: 79
+Interaction Logs: 
+Person: 7 did not infect Person: 58
+Interaction Logs: 
+Person: 7 did not infect Person: 88
+Interaction Logs: 
+Person: 7 did not infect Person: 46
+Interaction Logs: 
+Person: 7 did not infect Person: 11
+Interaction Logs: 
+Person: 7 did not infect Person: 55
+Interaction Logs: 
+Person: 7 did not infect Person: 13
+Interaction Logs: 
+Person: 7 did not infect Person: 31
+Interaction Logs: 
+Person: 7 did not infect Person: 55
+Interaction Logs: 
+Person: 7 did not infect Person: 75
+Interaction Logs: 
+Person: 7 did not infect Person: 51
+Interaction Logs: 
+Person: 7 did not infect Person: 67
+Interaction Logs: 
+Person: 7 did not infect Person: 10
+Interaction Logs: 
+Person: 7 did not infect Person: 50
+Interaction Logs: 
+Person: 7 did not infect Person: 39
+Interaction Logs: 
+Person: 7 did not infect Person: 95
+Interaction Logs: 
+Person: 7 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 28
+Interaction Logs: 
+Person: 7 did not infect Person: 42
+Interaction Logs: 
+Person: 7 did not infect Person: 99
+Interaction Logs: 
+Person: 7 did not infect Person: 21
+Interaction Logs: 
+Person: 7 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 65
+Interaction Logs: 
+Person: 7 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 14
+Interaction Logs: 
+Person: 7 did not infect Person: 67
+Interaction Logs: 
+Person: 7 did not infect Person: 65
+Interaction Logs: 
+Person: 7 did not infect Person: 24
+Interaction Logs: 
+Person: 7 did not infect Person: 99
+Interaction Logs: 
+Person: 7 did not infect Person: 44
+Interaction Logs: 
+Person: 7 did not infect Person: 44
+Interaction Logs: 
+Person: 7 did not infect Person: 93
+Interaction Logs: 
+Person: 7 did not infect Person: 82
+Interaction Logs: 
+Person: 7 did not infect Person: 18
+Interaction Logs: 
+Person: 7 did not infect Person: 30
+Interaction Logs: 
+Person: 7 did not infect Person: 13
+Interaction Logs: 
+Person: 7 did not infect Person: 18
+Interaction Logs: 
+Person: 7 did not infect Person: 32
+Interaction Logs: 
+Person: 7 did not infect Person: 25
+Interaction Logs: 
+Person: 7 did not infect Person: 22
+Interaction Logs: 
+Person: 7 did not infect Person: 77
+Interaction Logs: 
+Person: 7 did not infect Person: 19
+Interaction Logs: 
+Person: 7 did not infect Person: 97
+Interaction Logs: 
+Person: 7 did not infect Person: 97
+Interaction Logs: 
+Person: 7 did not infect Person: 83
+Interaction Logs: 
+Person: 7 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 22
+Interaction Logs: 
+Person: 7 did not infect Person: 98
+Interaction Logs: 
+Person: 7 did not infect Person: 80
+Interaction Logs: 
+Person: 7 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 59
+Interaction Logs: 
+Person: 7 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 72
+Interaction Logs: 
+Person: 7 did not infect Person: 97
+Interaction Logs: 
+Person: 7 did not infect Person: 74
+Interaction Logs: 
+Person: 7 did not infect Person: 57
+Interaction Logs: 
+Person: 7 did not infect Person: 87
+Interaction Logs: 
+Person: 7 did not infect Person: 72
+Interaction Logs: 
+Person: 7 did not infect Person: 82
+Interaction Logs: 
+Person: 7 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 79
+Interaction Logs: 
+Person: 7 did not infect Person: 41
+Interaction Logs: 
+Person: 7 did not infect Person: 80
+Interaction Logs: 
+Person: 7 did not infect Person: 40
+Interaction Logs: 
+Person: 7 did not infect Person: 19
+Interaction Logs: 
+Person: 7 did not infect Person: 56
+Interaction Logs: 
+Person: 7 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 60
+Interaction Logs: 
+Person: 7 did not infect Person: 56
+Interaction Logs: 
+Person: 7 did not infect Person: 80
+Interaction Logs: 
+Person: 7 did not infect Person: 38
+Interaction Logs: 
+Person: 7 did not infect Person: 35
+Interaction Logs: 
+Person: 7 did not infect Person: 75
+Interaction Logs: 
+Person: 7 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 45
+Interaction Logs: 
+Person: 7 did not infect Person: 64
+Interaction Logs: 
+Person: 7 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 39
+Interaction Logs: 
+Person: 7 did not infect Person: 59
+Interaction Logs: 
+Person: 7 did not infect Person: 57
+Interaction Logs: 
+Person: 7 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 47
+Interaction Logs: 
+Person: 7 did not infect Person: 36
+Interaction Logs: 
+Person: 7 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 7 did not infect Person: 82
+Interaction Logs: 
+Person: 7 did not infect Person: 11
+Interaction Logs: 
+Person: 7 did not infect Person: 78
+Interaction Logs: 
+Person: 7 did not infect Person: 76
+Interaction Logs: 
+Person: 7 did not infect Person: 64
+Interaction Logs: 
+Person: 7 did not infect Person: 49
+Interaction Logs: 
+Person: 7 did not infect Person: 59
+Interaction Logs: 
+Person: 8 did not infect Person: 74
+Interaction Logs: 
+Person: 8 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 94
+Interaction Logs: 
+Person: 8 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 57
+Interaction Logs: 
+Person: 8 did not infect Person: 73
+Interaction Logs: 
+Person: 8 did not infect Person: 83
+Interaction Logs: 
+Person: 8 did not infect Person: 24
+Interaction Logs: 
+Person: 8 did not infect Person: 41
+Interaction Logs: 
+Person: 8 did not infect Person: 77
+Interaction Logs: 
+Person: 8 did not infect Person: 60
+Interaction Logs: 
+Person: 8 did not infect Person: 64
+Interaction Logs: 
+Person: 8 did not infect Person: 19
+Interaction Logs: 
+Person: 8 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 57
+Interaction Logs: 
+Person: 8 did not infect Person: 13
+Interaction Logs: 
+Person: 8 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 91
+Interaction Logs: 
+Person: 8 did not infect Person: 10
+Interaction Logs: 
+Person: 8 did not infect Person: 64
+Interaction Logs: 
+Person: 8 did not infect Person: 82
+Interaction Logs: 
+Person: 8 did not infect Person: 22
+Interaction Logs: 
+Person: 8 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 31
+Interaction Logs: 
+Person: 8 did not infect Person: 90
+Interaction Logs: 
+Person: 8 did not infect Person: 56
+Interaction Logs: 
+Person: 8 did not infect Person: 56
+Interaction Logs: 
+Person: 8 did not infect Person: 67
+Interaction Logs: 
+Person: 8 did not infect Person: 66
+Interaction Logs: 
+Person: 8 did not infect Person: 78
+Interaction Logs: 
+Person: 8 did not infect Person: 20
+Interaction Logs: 
+Person: 8 did not infect Person: 46
+Interaction Logs: 
+Person: 8 did not infect Person: 47
+Interaction Logs: 
+Person: 8 did not infect Person: 36
+Interaction Logs: 
+Person: 8 did not infect Person: 49
+Interaction Logs: 
+Person: 8 did not infect Person: 52
+Interaction Logs: 
+Person: 8 did not infect Person: 99
+Interaction Logs: 
+Person: 8 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 76
+Interaction Logs: 
+Person: 8 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 80
+Interaction Logs: 
+Person: 8 did not infect Person: 82
+Interaction Logs: 
+Person: 8 did not infect Person: 42
+Interaction Logs: 
+Person: 8 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 42
+Interaction Logs: 
+Person: 8 did not infect Person: 12
+Interaction Logs: 
+Person: 8 did not infect Person: 71
+Interaction Logs: 
+Person: 8 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 49
+Interaction Logs: 
+Person: 8 did not infect Person: 36
+Interaction Logs: 
+Person: 8 did not infect Person: 32
+Interaction Logs: 
+Person: 8 did not infect Person: 92
+Interaction Logs: 
+Person: 8 did not infect Person: 84
+Interaction Logs: 
+Person: 8 did not infect Person: 77
+Interaction Logs: 
+Person: 8 did not infect Person: 19
+Interaction Logs: 
+Person: 8 did not infect Person: 42
+Interaction Logs: 
+Person: 8 did not infect Person: 10
+Interaction Logs: 
+Person: 8 did not infect Person: 74
+Interaction Logs: 
+Person: 8 did not infect Person: 84
+Interaction Logs: 
+Person: 8 did not infect Person: 18
+Interaction Logs: 
+Person: 8 did not infect Person: 44
+Interaction Logs: 
+Person: 8 did not infect Person: 39
+Interaction Logs: 
+Person: 8 did not infect Person: 83
+Interaction Logs: 
+Person: 8 did not infect Person: 89
+Interaction Logs: 
+Person: 8 did not infect Person: 84
+Interaction Logs: 
+Person: 8 did not infect Person: 50
+Interaction Logs: 
+Person: 8 did not infect Person: 16
+Interaction Logs: 
+Person: 8 did not infect Person: 76
+Interaction Logs: 
+Person: 8 did not infect Person: 90
+Interaction Logs: 
+Person: 8 did not infect Person: 10
+Interaction Logs: 
+Person: 8 did not infect Person: 39
+Interaction Logs: 
+Person: 8 did not infect Person: 71
+Interaction Logs: 
+Person: 8 did not infect Person: 48
+Interaction Logs: 
+Person: 8 did not infect Person: 82
+Interaction Logs: 
+Person: 8 did not infect Person: 42
+Interaction Logs: 
+Person: 8 did not infect Person: 16
+Interaction Logs: 
+Person: 8 did not infect Person: 85
+Interaction Logs: 
+Person: 8 did not infect Person: 89
+Interaction Logs: 
+Person: 8 did not infect Person: 94
+Interaction Logs: 
+Person: 8 did not infect Person: 87
+Interaction Logs: 
+Person: 8 did not infect Person: 67
+Interaction Logs: 
+Person: 8 did not infect Person: 11
+Interaction Logs: 
+Person: 8 did not infect Person: 82
+Interaction Logs: 
+Person: 8 did not infect Person: 85
+Interaction Logs: 
+Person: 8 did not infect Person: 54
+Interaction Logs: 
+Person: 8 did not infect Person: 65
+Interaction Logs: 
+Person: 8 did not infect Person: 46
+Interaction Logs: 
+Person: 8 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 46
+Interaction Logs: 
+Person: 8 did not infect Person: 39
+Interaction Logs: 
+Person: 8 did not infect Person: 23
+Interaction Logs: 
+Person: 8 did not infect Person: 27
+Interaction Logs: 
+Person: 8 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 8 did not infect Person: 98
+Interaction Logs: 
+Person: 8 did not infect Person: 62
+Interaction Logs: 
+Person: 8 did not infect Person: 24
+Interaction Logs: 
+Person: 8 did not infect Person: 28
+Interaction Logs: 
+Person: 8 did not infect Person: 17
+Interaction Logs: 
+Person: 8 did not infect Person: 19
+Interaction Logs: 
+Person: 9 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 37
+Interaction Logs: 
+Person: 9 did not infect Person: 12
+Interaction Logs: 
+Person: 9 did not infect Person: 64
+Interaction Logs: 
+Person: 9 did not infect Person: 98
+Interaction Logs: 
+Person: 9 did not infect Person: 69
+Interaction Logs: 
+Person: 9 did not infect Person: 94
+Interaction Logs: 
+Person: 9 did not infect Person: 67
+Interaction Logs: 
+Person: 9 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 84
+Interaction Logs: 
+Person: 9 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 98
+Interaction Logs: 
+Person: 9 did not infect Person: 79
+Interaction Logs: 
+Person: 9 did not infect Person: 16
+Interaction Logs: 
+Person: 9 did not infect Person: 76
+Interaction Logs: 
+Person: 9 did not infect Person: 48
+Interaction Logs: 
+Person: 9 did not infect Person: 19
+Interaction Logs: 
+Person: 9 did not infect Person: 20
+Interaction Logs: 
+Person: 9 did not infect Person: 23
+Interaction Logs: 
+Person: 9 did not infect Person: 88
+Interaction Logs: 
+Person: 9 did not infect Person: 98
+Interaction Logs: 
+Person: 9 did not infect Person: 79
+Interaction Logs: 
+Person: 9 did not infect Person: 21
+Interaction Logs: 
+Person: 9 did not infect Person: 92
+Interaction Logs: 
+Person: 9 did not infect Person: 56
+Interaction Logs: 
+Person: 9 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 52
+Interaction Logs: 
+Person: 9 did not infect Person: 46
+Interaction Logs: 
+Person: 9 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 92
+Interaction Logs: 
+Person: 9 did not infect Person: 30
+Interaction Logs: 
+Person: 9 did not infect Person: 56
+Interaction Logs: 
+Person: 9 did not infect Person: 78
+Interaction Logs: 
+Person: 9 did not infect Person: 36
+Interaction Logs: 
+Person: 9 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 95
+Interaction Logs: 
+Person: 9 did not infect Person: 57
+Interaction Logs: 
+Person: 9 did not infect Person: 29
+Interaction Logs: 
+Person: 9 did not infect Person: 68
+Interaction Logs: 
+Person: 9 did not infect Person: 30
+Interaction Logs: 
+Person: 9 did not infect Person: 39
+Interaction Logs: 
+Person: 9 did not infect Person: 60
+Interaction Logs: 
+Person: 9 did not infect Person: 24
+Interaction Logs: 
+Person: 9 did not infect Person: 47
+Interaction Logs: 
+Person: 9 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 73
+Interaction Logs: 
+Person: 9 did not infect Person: 56
+Interaction Logs: 
+Person: 9 did not infect Person: 59
+Interaction Logs: 
+Person: 9 did not infect Person: 98
+Interaction Logs: 
+Person: 9 did not infect Person: 36
+Interaction Logs: 
+Person: 9 did not infect Person: 99
+Interaction Logs: 
+Person: 9 did not infect Person: 48
+Interaction Logs: 
+Person: 9 did not infect Person: 64
+Interaction Logs: 
+Person: 9 did not infect Person: 67
+Interaction Logs: 
+Person: 9 did not infect Person: 53
+Interaction Logs: 
+Person: 9 did not infect Person: 20
+Interaction Logs: 
+Person: 9 did not infect Person: 25
+Interaction Logs: 
+Person: 9 did not infect Person: 77
+Interaction Logs: 
+Person: 9 did not infect Person: 17
+Interaction Logs: 
+Person: 9 did not infect Person: 32
+Interaction Logs: 
+Person: 9 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 82
+Interaction Logs: 
+Person: 9 did not infect Person: 61
+Interaction Logs: 
+Person: 9 did not infect Person: 47
+Interaction Logs: 
+Person: 9 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 13
+Interaction Logs: 
+Person: 9 did not infect Person: 91
+Interaction Logs: 
+Person: 9 did not infect Person: 66
+Interaction Logs: 
+Person: 9 did not infect Person: 15
+Interaction Logs: 
+Person: 9 did not infect Person: 36
+Interaction Logs: 
+Person: 9 did not infect Person: 10
+Interaction Logs: 
+Person: 9 did not infect Person: 97
+Interaction Logs: 
+Person: 9 did not infect Person: 20
+Interaction Logs: 
+Person: 9 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 57
+Interaction Logs: 
+Person: 9 did not infect Person: 65
+Interaction Logs: 
+Person: 9 did not infect Person: 18
+Interaction Logs: 
+Person: 9 did not infect Person: 55
+Interaction Logs: 
+Person: 9 did not infect Person: 11
+Interaction Logs: 
+Person: 9 did not infect Person: 28
+Interaction Logs: 
+Person: 9 did not infect Person: 57
+Interaction Logs: 
+Person: 9 did not infect Person: 44
+Interaction Logs: 
+Person: 9 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 53
+Interaction Logs: 
+Person: 9 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 50
+Interaction Logs: 
+Person: 9 did not infect Person: 64
+Interaction Logs: 
+Person: 9 did not infect Person: 47
+Interaction Logs: 
+Person: 9 did not infect Person: 30
+Interaction Logs: 
+Person: 9 did not infect Person: 49
+Interaction Logs: 
+Person: 9 did not infect Person: 10
+Interaction Logs: 
+Person: 9 did not infect Person: 47
+Interaction Logs: 
+Person: 9 did not infect Person: 28
+Interaction Logs: 
+Person: 9 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 9 did not infect Person: 40
+Interaction Logs: 
+Person: 9 did not infect Person: 12
+Interaction Logs: 
+Person: 9 did not infect Person: 91
+Interaction Logs: 
+Person: 9 did not infect Person: 83
+Interaction Logs: 
+Person: 9 did not infect Person: 42
+Interaction Logs: 
+Person: 9 did not infect Person: 18
+Interaction Logs: 
+Person: 34 did not infect Person: 17
+Interaction Logs: 
+Person: 34 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 36
+Interaction Logs: 
+Person: 34 did not infect Person: 60
+Interaction Logs: 
+Person: 34 did not infect Person: 89
+Interaction Logs: 
+Person: 34 did not infect Person: 17
+Interaction Logs: 
+Person: 34 did not infect Person: 97
+Interaction Logs: 
+Person: 34 did not infect Person: 90
+Interaction Logs: 
+Person: 34 did not infect Person: 60
+Interaction Logs: 
+Person: 34 did not infect Person: 57
+Interaction Logs: 
+Person: 34 did not infect Person: 78
+Interaction Logs: 
+Person: 34 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 10
+Interaction Logs: 
+Person: 34 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 32
+Interaction Logs: 
+Person: 34 did not infect Person: 27
+Interaction Logs: 
+Person: 34 did not infect Person: 19
+Interaction Logs: 
+Person: 34 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 93
+Interaction Logs: 
+Person: 34 did not infect Person: 77
+Interaction Logs: 
+Person: 34 did not infect Person: 67
+Interaction Logs: 
+Person: 34 did not infect Person: 54
+Interaction Logs: 
+Person: 34 did not infect Person: 14
+Interaction Logs: 
+Person: 34 did not infect Person: 99
+Interaction Logs: 
+Person: 34 did not infect Person: 36
+Interaction Logs: 
+Person: 34 did not infect Person: 30
+Interaction Logs: 
+Person: 34 did not infect Person: 38
+Interaction Logs: 
+Person: 34 did not infect Person: 15
+Interaction Logs: 
+Person: 34 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 30
+Interaction Logs: 
+Person: 34 did not infect Person: 53
+Interaction Logs: 
+Person: 34 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 79
+Interaction Logs: 
+Person: 34 did not infect Person: 58
+Interaction Logs: 
+Person: 34 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 14
+Interaction Logs: 
+Person: 34 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 76
+Interaction Logs: 
+Person: 34 did not infect Person: 68
+Interaction Logs: 
+Person: 34 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 80
+Interaction Logs: 
+Person: 34 did not infect Person: 65
+Interaction Logs: 
+Person: 34 did not infect Person: 73
+Interaction Logs: 
+Person: 34 did not infect Person: 30
+Interaction Logs: 
+Person: 34 did not infect Person: 91
+Interaction Logs: 
+Person: 34 did not infect Person: 18
+Interaction Logs: 
+Person: 34 did not infect Person: 37
+Interaction Logs: 
+Person: 34 did not infect Person: 54
+Interaction Logs: 
+Person: 34 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 78
+Interaction Logs: 
+Person: 34 did not infect Person: 45
+Interaction Logs: 
+Person: 34 did not infect Person: 30
+Interaction Logs: 
+Person: 34 did not infect Person: 73
+Interaction Logs: 
+Person: 34 did not infect Person: 53
+Interaction Logs: 
+Person: 34 did not infect Person: 23
+Interaction Logs: 
+Person: 34 did not infect Person: 85
+Interaction Logs: 
+Person: 34 did not infect Person: 85
+Interaction Logs: 
+Person: 34 did not infect Person: 10
+Interaction Logs: 
+Person: 34 did not infect Person: 67
+Interaction Logs: 
+Person: 34 did not infect Person: 46
+Interaction Logs: 
+Person: 34 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 67
+Interaction Logs: 
+Person: 34 did not infect Person: 69
+Interaction Logs: 
+Person: 34 did not infect Person: 64
+Interaction Logs: 
+Person: 34 did not infect Person: 64
+Interaction Logs: 
+Person: 34 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 49
+Interaction Logs: 
+Person: 34 did not infect Person: 60
+Interaction Logs: 
+Person: 34 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 49
+Interaction Logs: 
+Person: 34 did not infect Person: 47
+Interaction Logs: 
+Person: 34 did not infect Person: 32
+Interaction Logs: 
+Person: 34 did not infect Person: 95
+Interaction Logs: 
+Person: 34 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 45
+Interaction Logs: 
+Person: 34 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 44
+Interaction Logs: 
+Person: 34 did not infect Person: 30
+Interaction Logs: 
+Person: 34 did not infect Person: 93
+Interaction Logs: 
+Person: 34 did not infect Person: 84
+Interaction Logs: 
+Person: 34 did not infect Person: 80
+Interaction Logs: 
+Person: 34 did not infect Person: 13
+Interaction Logs: 
+Person: 34 did not infect Person: 98
+Interaction Logs: 
+Person: 34 did not infect Person: 74
+Interaction Logs: 
+Person: 34 did not infect Person: 94
+Interaction Logs: 
+Person: 34 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 42
+Interaction Logs: 
+Person: 34 did not infect Person: 17
+Interaction Logs: 
+Person: 34 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 45
+Interaction Logs: 
+Person: 34 did not infect Person: 69
+Interaction Logs: 
+Person: 34 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 34 did not infect Person: 82
+Interaction Logs: 
+Person: 34 did not infect Person: 22
+Interaction Logs: 
+Person: 34 did not infect Person: 99
+Interaction Logs: 
+Person: 34 did not infect Person: 87
+Interaction Logs: 
+Person: 34 did not infect Person: 59
+Interaction Logs: 
+Person: 34 did not infect Person: 89
+Interaction Logs: 
+Person: 43 did not infect Person: 61
+Interaction Logs: 
+Person: 43 did not infect Person: 80
+Interaction Logs: 
+Person: 43 did not infect Person: 23
+Interaction Logs: 
+Person: 43 did not infect Person: 17
+Interaction Logs: 
+Person: 43 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 91
+Interaction Logs: 
+Person: 43 did not infect Person: 99
+Interaction Logs: 
+Person: 43 did not infect Person: 58
+Interaction Logs: 
+Person: 43 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 37
+Interaction Logs: 
+Person: 43 did not infect Person: 25
+Interaction Logs: 
+Person: 43 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 25
+Interaction Logs: 
+Person: 43 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 40
+Interaction Logs: 
+Person: 43 did not infect Person: 39
+Interaction Logs: 
+Person: 43 did not infect Person: 65
+Interaction Logs: 
+Person: 43 did not infect Person: 50
+Interaction Logs: 
+Person: 43 did not infect Person: 69
+Interaction Logs: 
+Person: 43 did not infect Person: 60
+Interaction Logs: 
+Person: 43 did not infect Person: 32
+Interaction Logs: 
+Person: 43 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 82
+Interaction Logs: 
+Person: 43 did not infect Person: 24
+Interaction Logs: 
+Person: 43 did not infect Person: 36
+Interaction Logs: 
+Person: 43 did not infect Person: 45
+Interaction Logs: 
+Person: 43 did not infect Person: 99
+Interaction Logs: 
+Person: 43 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 83
+Interaction Logs: 
+Person: 43 did not infect Person: 42
+Interaction Logs: 
+Person: 43 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 15
+Interaction Logs: 
+Person: 43 did not infect Person: 47
+Interaction Logs: 
+Person: 43 did not infect Person: 55
+Interaction Logs: 
+Person: 43 did not infect Person: 51
+Interaction Logs: 
+Person: 43 did not infect Person: 95
+Interaction Logs: 
+Person: 43 did not infect Person: 56
+Interaction Logs: 
+Person: 43 did not infect Person: 49
+Interaction Logs: 
+Person: 43 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 23
+Interaction Logs: 
+Person: 43 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 88
+Interaction Logs: 
+Person: 43 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 47
+Interaction Logs: 
+Person: 43 did not infect Person: 66
+Interaction Logs: 
+Person: 43 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 10
+Interaction Logs: 
+Person: 43 did not infect Person: 93
+Interaction Logs: 
+Person: 43 did not infect Person: 54
+Interaction Logs: 
+Person: 43 did not infect Person: 10
+Interaction Logs: 
+Person: 43 did not infect Person: 55
+Interaction Logs: 
+Person: 43 did not infect Person: 77
+Interaction Logs: 
+Person: 43 did not infect Person: 23
+Interaction Logs: 
+Person: 43 did not infect Person: 69
+Interaction Logs: 
+Person: 43 did not infect Person: 37
+Interaction Logs: 
+Person: 43 did not infect Person: 41
+Interaction Logs: 
+Person: 43 did not infect Person: 13
+Interaction Logs: 
+Person: 43 did not infect Person: 10
+Interaction Logs: 
+Person: 43 did not infect Person: 41
+Interaction Logs: 
+Person: 43 did not infect Person: 84
+Interaction Logs: 
+Person: 43 did not infect Person: 37
+Interaction Logs: 
+Person: 43 did not infect Person: 39
+Interaction Logs: 
+Person: 43 did not infect Person: 57
+Interaction Logs: 
+Person: 43 did not infect Person: 77
+Interaction Logs: 
+Person: 43 did not infect Person: 91
+Interaction Logs: 
+Person: 43 did not infect Person: 54
+Interaction Logs: 
+Person: 43 did not infect Person: 21
+Interaction Logs: 
+Person: 43 did not infect Person: 88
+Interaction Logs: 
+Person: 43 did not infect Person: 56
+Interaction Logs: 
+Person: 43 did not infect Person: 44
+Interaction Logs: 
+Person: 43 did not infect Person: 57
+Interaction Logs: 
+Person: 43 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 93
+Interaction Logs: 
+Person: 43 did not infect Person: 45
+Interaction Logs: 
+Person: 43 did not infect Person: 78
+Interaction Logs: 
+Person: 43 did not infect Person: 55
+Interaction Logs: 
+Person: 43 did not infect Person: 35
+Interaction Logs: 
+Person: 43 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 85
+Interaction Logs: 
+Person: 43 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 51
+Interaction Logs: 
+Person: 43 did not infect Person: 46
+Interaction Logs: 
+Person: 43 did not infect Person: 65
+Interaction Logs: 
+Person: 43 did not infect Person: 95
+Interaction Logs: 
+Person: 43 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 20
+Interaction Logs: 
+Person: 43 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 18
+Interaction Logs: 
+Person: 43 did not infect Person: 77
+Interaction Logs: 
+Person: 43 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 56
+Interaction Logs: 
+Person: 43 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 16
+Interaction Logs: 
+Person: 43 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 43 did not infect Person: 30
+Interaction Logs: 
+Person: 43 did not infect Person: 99
+Interaction Logs: 
+Person: 43 did not infect Person: 82
+Interaction Logs: 
+Person: 63 did not infect Person: 46
+Interaction Logs: 
+Person: 63 did not infect Person: 46
+Interaction Logs: 
+Person: 63 did not infect Person: 49
+Interaction Logs: 
+Person: 63 did not infect Person: 72
+Interaction Logs: 
+Person: 63 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 77
+Interaction Logs: 
+Person: 63 did not infect Person: 19
+Interaction Logs: 
+Person: 63 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 57
+Interaction Logs: 
+Person: 63 did not infect Person: 47
+Interaction Logs: 
+Person: 63 did not infect Person: 47
+Interaction Logs: 
+Person: 63 did not infect Person: 56
+Interaction Logs: 
+Person: 63 did not infect Person: 97
+Interaction Logs: 
+Person: 63 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 73
+Interaction Logs: 
+Person: 63 did not infect Person: 17
+Interaction Logs: 
+Person: 63 did not infect Person: 67
+Interaction Logs: 
+Person: 63 did not infect Person: 46
+Interaction Logs: 
+Person: 63 did not infect Person: 50
+Interaction Logs: 
+Person: 63 did not infect Person: 40
+Interaction Logs: 
+Person: 63 did not infect Person: 83
+Interaction Logs: 
+Person: 63 did not infect Person: 35
+Interaction Logs: 
+Person: 63 did not infect Person: 31
+Interaction Logs: 
+Person: 63 did not infect Person: 14
+Interaction Logs: 
+Person: 63 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 94
+Interaction Logs: 
+Person: 63 did not infect Person: 23
+Interaction Logs: 
+Person: 63 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 66
+Interaction Logs: 
+Person: 63 did not infect Person: 49
+Interaction Logs: 
+Person: 63 did not infect Person: 71
+Interaction Logs: 
+Person: 63 did not infect Person: 15
+Interaction Logs: 
+Person: 63 did not infect Person: 33
+Interaction Logs: 
+Person: 63 did not infect Person: 99
+Interaction Logs: 
+Person: 63 did not infect Person: 33
+Interaction Logs: 
+Person: 63 did not infect Person: 90
+Interaction Logs: 
+Person: 63 did not infect Person: 57
+Interaction Logs: 
+Person: 63 did not infect Person: 27
+Interaction Logs: 
+Person: 63 did not infect Person: 78
+Interaction Logs: 
+Person: 63 did not infect Person: 36
+Interaction Logs: 
+Person: 63 did not infect Person: 88
+Interaction Logs: 
+Person: 63 did not infect Person: 62
+Interaction Logs: 
+Person: 63 did not infect Person: 25
+Interaction Logs: 
+Person: 63 did not infect Person: 15
+Interaction Logs: 
+Person: 63 did not infect Person: 17
+Interaction Logs: 
+Person: 63 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 57
+Interaction Logs: 
+Person: 63 did not infect Person: 22
+Interaction Logs: 
+Person: 63 did not infect Person: 91
+Interaction Logs: 
+Person: 63 did not infect Person: 56
+Interaction Logs: 
+Person: 63 did not infect Person: 11
+Interaction Logs: 
+Person: 63 did not infect Person: 87
+Interaction Logs: 
+Person: 63 did not infect Person: 40
+Interaction Logs: 
+Person: 63 did not infect Person: 85
+Interaction Logs: 
+Person: 63 did not infect Person: 44
+Interaction Logs: 
+Person: 63 did not infect Person: 90
+Interaction Logs: 
+Person: 63 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 69
+Interaction Logs: 
+Person: 63 did not infect Person: 37
+Interaction Logs: 
+Person: 63 did not infect Person: 38
+Interaction Logs: 
+Person: 63 did not infect Person: 20
+Interaction Logs: 
+Person: 63 did not infect Person: 91
+Interaction Logs: 
+Person: 63 did not infect Person: 90
+Interaction Logs: 
+Person: 63 did not infect Person: 89
+Interaction Logs: 
+Person: 63 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 22
+Interaction Logs: 
+Person: 63 did not infect Person: 46
+Interaction Logs: 
+Person: 63 did not infect Person: 65
+Interaction Logs: 
+Person: 63 did not infect Person: 28
+Interaction Logs: 
+Person: 63 did not infect Person: 15
+Interaction Logs: 
+Person: 63 did not infect Person: 25
+Interaction Logs: 
+Person: 63 did not infect Person: 17
+Interaction Logs: 
+Person: 63 did not infect Person: 30
+Interaction Logs: 
+Person: 63 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 46
+Interaction Logs: 
+Person: 63 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 73
+Interaction Logs: 
+Person: 63 did not infect Person: 47
+Interaction Logs: 
+Person: 63 did not infect Person: 59
+Interaction Logs: 
+Person: 63 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 16
+Interaction Logs: 
+Person: 63 did not infect Person: 78
+Interaction Logs: 
+Person: 63 did not infect Person: 11
+Interaction Logs: 
+Person: 63 did not infect 8 because Person: 8 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 39
+Interaction Logs: 
+Person: 63 did not infect Person: 50
+Interaction Logs: 
+Person: 63 did not infect Person: 91
+Interaction Logs: 
+Person: 63 did not infect Person: 92
+Interaction Logs: 
+Person: 63 did not infect Person: 61
+Interaction Logs: 
+Person: 63 did not infect Person: 67
+Interaction Logs: 
+Person: 63 did not infect Person: 52
+Interaction Logs: 
+Person: 63 did not infect Person: 98
+Interaction Logs: 
+Person: 63 did not infect Person: 52
+Interaction Logs: 
+Person: 63 did not infect Person: 73
+Interaction Logs: 
+Person: 63 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 63 did not infect Person: 16
+Interaction Logs: 
+Person: 63 did not infect Person: 40
+Interaction Logs: 
+Person: 63 did not infect Person: 82
+Interaction Logs: 
+Person: 70 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 57
+Interaction Logs: 
+Person: 70 did not infect Person: 59
+Interaction Logs: 
+Person: 70 did not infect Person: 87
+Interaction Logs: 
+Person: 70 did not infect Person: 66
+Interaction Logs: 
+Person: 70 did not infect Person: 44
+Interaction Logs: 
+Person: 70 did not infect Person: 16
+Interaction Logs: 
+Person: 70 did not infect Person: 99
+Interaction Logs: 
+Person: 70 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 75
+Interaction Logs: 
+Person: 70 did not infect Person: 23
+Interaction Logs: 
+Person: 70 did not infect Person: 98
+Interaction Logs: 
+Person: 70 did not infect Person: 16
+Interaction Logs: 
+Person: 70 did not infect Person: 55
+Interaction Logs: 
+Person: 70 did not infect Person: 64
+Interaction Logs: 
+Person: 70 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 15
+Interaction Logs: 
+Person: 70 did not infect Person: 66
+Interaction Logs: 
+Person: 70 did not infect Person: 19
+Interaction Logs: 
+Person: 70 did not infect Person: 38
+Interaction Logs: 
+Person: 70 did not infect Person: 21
+Interaction Logs: 
+Person: 70 did not infect Person: 20
+Interaction Logs: 
+Person: 70 did not infect Person: 41
+Interaction Logs: 
+Person: 70 did not infect Person: 90
+Interaction Logs: 
+Person: 70 did not infect Person: 28
+Interaction Logs: 
+Person: 70 did not infect Person: 44
+Interaction Logs: 
+Person: 70 did not infect Person: 66
+Interaction Logs: 
+Person: 70 did not infect Person: 36
+Interaction Logs: 
+Person: 70 did not infect Person: 10
+Interaction Logs: 
+Person: 70 did not infect Person: 32
+Interaction Logs: 
+Person: 70 did not infect Person: 25
+Interaction Logs: 
+Person: 70 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 35
+Interaction Logs: 
+Person: 70 did not infect Person: 16
+Interaction Logs: 
+Person: 70 did not infect Person: 80
+Interaction Logs: 
+Person: 70 did not infect Person: 38
+Interaction Logs: 
+Person: 70 did not infect Person: 78
+Interaction Logs: 
+Person: 70 did not infect Person: 68
+Interaction Logs: 
+Person: 70 did not infect Person: 11
+Interaction Logs: 
+Person: 70 did not infect Person: 64
+Interaction Logs: 
+Person: 70 did not infect Person: 82
+Interaction Logs: 
+Person: 70 did not infect Person: 21
+Interaction Logs: 
+Person: 70 did not infect Person: 75
+Interaction Logs: 
+Person: 70 did not infect Person: 74
+Interaction Logs: 
+Person: 70 did not infect Person: 19
+Interaction Logs: 
+Person: 70 did not infect Person: 21
+Interaction Logs: 
+Person: 70 did not infect Person: 84
+Interaction Logs: 
+Person: 70 did not infect Person: 79
+Interaction Logs: 
+Person: 70 did not infect Person: 92
+Interaction Logs: 
+Person: 70 did not infect Person: 77
+Interaction Logs: 
+Person: 70 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 72
+Interaction Logs: 
+Person: 70 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 10
+Interaction Logs: 
+Person: 70 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 82
+Interaction Logs: 
+Person: 70 did not infect Person: 98
+Interaction Logs: 
+Person: 70 did not infect Person: 73
+Interaction Logs: 
+Person: 70 did not infect Person: 33
+Interaction Logs: 
+Person: 70 did not infect Person: 83
+Interaction Logs: 
+Person: 70 did not infect Person: 26
+Interaction Logs: 
+Person: 70 did not infect Person: 98
+Interaction Logs: 
+Person: 70 did not infect Person: 73
+Interaction Logs: 
+Person: 70 did not infect Person: 53
+Interaction Logs: 
+Person: 70 did not infect Person: 79
+Interaction Logs: 
+Person: 70 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 80
+Interaction Logs: 
+Person: 70 did not infect Person: 69
+Interaction Logs: 
+Person: 70 did not infect Person: 37
+Interaction Logs: 
+Person: 70 did not infect Person: 82
+Interaction Logs: 
+Person: 70 did not infect Person: 38
+Interaction Logs: 
+Person: 70 did not infect Person: 61
+Interaction Logs: 
+Person: 70 did not infect Person: 31
+Interaction Logs: 
+Person: 70 did not infect Person: 87
+Interaction Logs: 
+Person: 70 did not infect Person: 51
+Interaction Logs: 
+Person: 70 did not infect Person: 38
+Interaction Logs: 
+Person: 70 did not infect Person: 58
+Interaction Logs: 
+Person: 70 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 88
+Interaction Logs: 
+Person: 70 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 20
+Interaction Logs: 
+Person: 70 did not infect Person: 56
+Interaction Logs: 
+Person: 70 did not infect Person: 53
+Interaction Logs: 
+Person: 70 did not infect Person: 61
+Interaction Logs: 
+Person: 70 did not infect Person: 59
+Interaction Logs: 
+Person: 70 did not infect Person: 26
+Interaction Logs: 
+Person: 70 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 70 did not infect Person: 77
+Interaction Logs: 
+Person: 70 did not infect Person: 18
+Interaction Logs: 
+Person: 70 did not infect Person: 40
+Interaction Logs: 
+Person: 70 did not infect Person: 91
+Interaction Logs: 
+Person: 70 did not infect Person: 40
+Interaction Logs: 
+Person: 70 did not infect Person: 93
+Interaction Logs: 
+Person: 70 did not infect Person: 44
+Interaction Logs: 
+Person: 70 did not infect Person: 51
+Interaction Logs: 
+Person: 81 did not infect Person: 16
+Interaction Logs: 
+Person: 81 did not infect Person: 97
+Interaction Logs: 
+Person: 81 did not infect Person: 47
+Interaction Logs: 
+Person: 81 did not infect Person: 65
+Interaction Logs: 
+Person: 81 did not infect Person: 71
+Interaction Logs: 
+Person: 81 did not infect Person: 13
+Interaction Logs: 
+Person: 81 did not infect Person: 40
+Interaction Logs: 
+Person: 81 did not infect Person: 30
+Interaction Logs: 
+Person: 81 did not infect Person: 59
+Interaction Logs: 
+Person: 81 did not infect Person: 15
+Interaction Logs: 
+Person: 81 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 57
+Interaction Logs: 
+Person: 81 did not infect Person: 31
+Interaction Logs: 
+Person: 81 did not infect Person: 18
+Interaction Logs: 
+Person: 81 did not infect Person: 12
+Interaction Logs: 
+Person: 81 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 37
+Interaction Logs: 
+Person: 81 did not infect Person: 49
+Interaction Logs: 
+Person: 81 did not infect Person: 78
+Interaction Logs: 
+Person: 81 did not infect Person: 53
+Interaction Logs: 
+Person: 81 did not infect Person: 31
+Interaction Logs: 
+Person: 81 did not infect Person: 20
+Interaction Logs: 
+Person: 81 did not infect Person: 41
+Interaction Logs: 
+Person: 81 did not infect Person: 73
+Interaction Logs: 
+Person: 81 did not infect Person: 92
+Interaction Logs: 
+Person: 81 did not infect Person: 40
+Interaction Logs: 
+Person: 81 did not infect Person: 24
+Interaction Logs: 
+Person: 81 did not infect Person: 97
+Interaction Logs: 
+Person: 81 did not infect Person: 20
+Interaction Logs: 
+Person: 81 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 65
+Interaction Logs: 
+Person: 81 did not infect Person: 59
+Interaction Logs: 
+Person: 81 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 39
+Interaction Logs: 
+Person: 81 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 11
+Interaction Logs: 
+Person: 81 did not infect Person: 50
+Interaction Logs: 
+Person: 81 did not infect Person: 64
+Interaction Logs: 
+Person: 81 did not infect Person: 58
+Interaction Logs: 
+Person: 81 did not infect Person: 30
+Interaction Logs: 
+Person: 81 did not infect Person: 27
+Interaction Logs: 
+Person: 81 did not infect Person: 74
+Interaction Logs: 
+Person: 81 did not infect Person: 45
+Interaction Logs: 
+Person: 81 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 36
+Interaction Logs: 
+Person: 81 did not infect 63 because Person: 63 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 76
+Interaction Logs: 
+Person: 81 did not infect Person: 83
+Interaction Logs: 
+Person: 81 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 60
+Interaction Logs: 
+Person: 81 did not infect Person: 36
+Interaction Logs: 
+Person: 81 did not infect Person: 68
+Interaction Logs: 
+Person: 81 did not infect 1 because Person: 1 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 13
+Interaction Logs: 
+Person: 81 did not infect Person: 55
+Interaction Logs: 
+Person: 81 did not infect Person: 17
+Interaction Logs: 
+Person: 81 did not infect Person: 33
+Interaction Logs: 
+Person: 81 did not infect Person: 93
+Interaction Logs: 
+Person: 81 did not infect Person: 46
+Interaction Logs: 
+Person: 81 did not infect Person: 97
+Interaction Logs: 
+Person: 81 did not infect Person: 51
+Interaction Logs: 
+Person: 81 did not infect Person: 46
+Interaction Logs: 
+Person: 81 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 51
+Interaction Logs: 
+Person: 81 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 72
+Interaction Logs: 
+Person: 81 did not infect Person: 71
+Interaction Logs: 
+Person: 81 did not infect Person: 24
+Interaction Logs: 
+Person: 81 did not infect Person: 46
+Interaction Logs: 
+Person: 81 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 36
+Interaction Logs: 
+Person: 81 did not infect 9 because Person: 9 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 49
+Interaction Logs: 
+Person: 81 did not infect Person: 64
+Interaction Logs: 
+Person: 81 did not infect Person: 57
+Interaction Logs: 
+Person: 81 did not infect Person: 97
+Interaction Logs: 
+Person: 81 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 35
+Interaction Logs: 
+Person: 81 did not infect Person: 79
+Interaction Logs: 
+Person: 81 did not infect Person: 87
+Interaction Logs: 
+Person: 81 did not infect Person: 78
+Interaction Logs: 
+Person: 81 did not infect Person: 15
+Interaction Logs: 
+Person: 81 did not infect Person: 16
+Interaction Logs: 
+Person: 81 did not infect Person: 12
+Interaction Logs: 
+Person: 81 did not infect Person: 50
+Interaction Logs: 
+Person: 81 did not infect Person: 47
+Interaction Logs: 
+Person: 81 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 71
+Interaction Logs: 
+Person: 81 did not infect Person: 46
+Interaction Logs: 
+Person: 81 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect Person: 18
+Interaction Logs: 
+Person: 81 did not infect Person: 25
+Interaction Logs: 
+Person: 81 did not infect Person: 77
+Interaction Logs: 
+Person: 81 did not infect Person: 65
+Interaction Logs: 
+Person: 81 did not infect Person: 51
+Interaction Logs: 
+Person: 81 did not infect Person: 64
+Interaction Logs: 
+Person: 81 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 81 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 17
+Interaction Logs: 
+Person: 86 did not infect Person: 91
+Interaction Logs: 
+Person: 86 did not infect Person: 42
+Interaction Logs: 
+Person: 86 did not infect Person: 60
+Interaction Logs: 
+Person: 86 did not infect Person: 66
+Interaction Logs: 
+Person: 86 did not infect Person: 58
+Interaction Logs: 
+Person: 86 did not infect Person: 19
+Interaction Logs: 
+Person: 86 did not infect Person: 77
+Interaction Logs: 
+Person: 86 did not infect Person: 65
+Interaction Logs: 
+Person: 86 did not infect Person: 17
+Interaction Logs: 
+Person: 86 did not infect Person: 41
+Interaction Logs: 
+Person: 86 did not infect Person: 78
+Interaction Logs: 
+Person: 86 did not infect Person: 40
+Interaction Logs: 
+Person: 86 did not infect Person: 20
+Interaction Logs: 
+Person: 86 did not infect Person: 50
+Interaction Logs: 
+Person: 86 did not infect Person: 78
+Interaction Logs: 
+Person: 86 did not infect Person: 94
+Interaction Logs: 
+Person: 86 did not infect Person: 38
+Interaction Logs: 
+Person: 86 did not infect Person: 75
+Interaction Logs: 
+Person: 86 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 64
+Interaction Logs: 
+Person: 86 did not infect Person: 65
+Interaction Logs: 
+Person: 86 did not infect Person: 68
+Interaction Logs: 
+Person: 86 did not infect Person: 62
+Interaction Logs: 
+Person: 86 did not infect Person: 90
+Interaction Logs: 
+Person: 86 did not infect Person: 72
+Interaction Logs: 
+Person: 86 did not infect Person: 38
+Interaction Logs: 
+Person: 86 did not infect Person: 60
+Interaction Logs: 
+Person: 86 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 47
+Interaction Logs: 
+Person: 86 did not infect Person: 42
+Interaction Logs: 
+Person: 86 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 14
+Interaction Logs: 
+Person: 86 did not infect Person: 53
+Interaction Logs: 
+Person: 86 did not infect Person: 74
+Interaction Logs: 
+Person: 86 did not infect Person: 39
+Interaction Logs: 
+Person: 86 did not infect Person: 92
+Interaction Logs: 
+Person: 86 did not infect Person: 88
+Interaction Logs: 
+Person: 86 did not infect Person: 80
+Interaction Logs: 
+Person: 86 did not infect 3 because Person: 3 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 76
+Interaction Logs: 
+Person: 86 did not infect Person: 60
+Interaction Logs: 
+Person: 86 did not infect Person: 33
+Interaction Logs: 
+Person: 86 did not infect Person: 83
+Interaction Logs: 
+Person: 86 did not infect Person: 99
+Interaction Logs: 
+Person: 86 did not infect Person: 74
+Interaction Logs: 
+Person: 86 did not infect Person: 73
+Interaction Logs: 
+Person: 86 did not infect Person: 29
+Interaction Logs: 
+Person: 86 did not infect Person: 92
+Interaction Logs: 
+Person: 86 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 74
+Interaction Logs: 
+Person: 86 did not infect Person: 61
+Interaction Logs: 
+Person: 86 did not infect Person: 21
+Interaction Logs: 
+Person: 86 did not infect Person: 67
+Interaction Logs: 
+Person: 86 did not infect Person: 80
+Interaction Logs: 
+Person: 86 did not infect Person: 92
+Interaction Logs: 
+Person: 86 did not infect Person: 79
+Interaction Logs: 
+Person: 86 did not infect Person: 99
+Interaction Logs: 
+Person: 86 did not infect Person: 48
+Interaction Logs: 
+Person: 86 did not infect Person: 18
+Interaction Logs: 
+Person: 86 did not infect Person: 87
+Interaction Logs: 
+Person: 86 did not infect Person: 31
+Interaction Logs: 
+Person: 86 did not infect 4 because Person: 4 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 73
+Interaction Logs: 
+Person: 86 did not infect Person: 89
+Interaction Logs: 
+Person: 86 did not infect Person: 14
+Interaction Logs: 
+Person: 86 did not infect Person: 24
+Interaction Logs: 
+Person: 86 did not infect 2 because Person: 2 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 56
+Interaction Logs: 
+Person: 86 did not infect Person: 40
+Interaction Logs: 
+Person: 86 did not infect Person: 53
+Interaction Logs: 
+Person: 86 did not infect Person: 19
+Interaction Logs: 
+Person: 86 did not infect Person: 52
+Interaction Logs: 
+Person: 86 did not infect Person: 88
+Interaction Logs: 
+Person: 86 did not infect Person: 26
+Interaction Logs: 
+Person: 86 did not infect Person: 52
+Interaction Logs: 
+Person: 86 did not infect Person: 64
+Interaction Logs: 
+Person: 86 did not infect Person: 99
+Interaction Logs: 
+Person: 86 did not infect Person: 78
+Interaction Logs: 
+Person: 86 did not infect Person: 60
+Interaction Logs: 
+Person: 86 did not infect Person: 94
+Interaction Logs: 
+Person: 86 did not infect Person: 93
+Interaction Logs: 
+Person: 86 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 90
+Interaction Logs: 
+Person: 86 did not infect Person: 17
+Interaction Logs: 
+Person: 86 did not infect Person: 66
+Interaction Logs: 
+Person: 86 did not infect Person: 26
+Interaction Logs: 
+Person: 86 did not infect Person: 71
+Interaction Logs: 
+Person: 86 did not infect Person: 41
+Interaction Logs: 
+Person: 86 did not infect Person: 84
+Interaction Logs: 
+Person: 86 did not infect Person: 61
+Interaction Logs: 
+Person: 86 did not infect Person: 67
+Interaction Logs: 
+Person: 86 did not infect Person: 48
+Interaction Logs: 
+Person: 86 did not infect Person: 40
+Interaction Logs: 
+Person: 86 did not infect Person: 22
+Interaction Logs: 
+Person: 86 did not infect Person: 58
+Interaction Logs: 
+Person: 86 did not infect Person: 68
+Interaction Logs: 
+Person: 86 did not infect 43 because Person: 43 is vaccinated or already sick.
+Interaction Logs: 
+Person: 86 did not infect Person: 69
+Interaction Logs: 
+Person: 96 did not infect Person: 45
+Interaction Logs: 
+Person: 96 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 98
+Interaction Logs: 
+Person: 96 did not infect Person: 92
+Interaction Logs: 
+Person: 96 did not infect Person: 87
+Interaction Logs: 
+Person: 96 did not infect Person: 82
+Interaction Logs: 
+Person: 96 did not infect Person: 88
+Interaction Logs: 
+Person: 96 did not infect Person: 33
+Interaction Logs: 
+Person: 96 did not infect Person: 78
+Interaction Logs: 
+Person: 96 did not infect Person: 61
+Interaction Logs: 
+Person: 96 did not infect Person: 24
+Interaction Logs: 
+Person: 96 did not infect Person: 31
+Interaction Logs: 
+Person: 96 did not infect Person: 35
+Interaction Logs: 
+Person: 96 did not infect Person: 71
+Interaction Logs: 
+Person: 96 did not infect Person: 38
+Interaction Logs: 
+Person: 96 did not infect Person: 28
+Interaction Logs: 
+Person: 96 did not infect Person: 38
+Interaction Logs: 
+Person: 96 did not infect Person: 98
+Interaction Logs: 
+Person: 96 did not infect Person: 36
+Interaction Logs: 
+Person: 96 did not infect Person: 90
+Interaction Logs: 
+Person: 96 did not infect Person: 26
+Interaction Logs: 
+Person: 96 did not infect Person: 88
+Interaction Logs: 
+Person: 96 did not infect Person: 90
+Interaction Logs: 
+Person: 96 did not infect Person: 62
+Interaction Logs: 
+Person: 96 did not infect Person: 40
+Interaction Logs: 
+Person: 96 did not infect Person: 61
+Interaction Logs: 
+Person: 96 did not infect Person: 44
+Interaction Logs: 
+Person: 96 did not infect Person: 71
+Interaction Logs: 
+Person: 96 did not infect Person: 92
+Interaction Logs: 
+Person: 96 did not infect Person: 35
+Interaction Logs: 
+Person: 96 did not infect Person: 36
+Interaction Logs: 
+Person: 96 did not infect Person: 15
+Interaction Logs: 
+Person: 96 did not infect Person: 73
+Interaction Logs: 
+Person: 96 did not infect 86 because Person: 86 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 69
+Interaction Logs: 
+Person: 96 did not infect Person: 48
+Interaction Logs: 
+Person: 96 did not infect Person: 50
+Interaction Logs: 
+Person: 96 did not infect Person: 44
+Interaction Logs: 
+Person: 96 did not infect Person: 98
+Interaction Logs: 
+Person: 96 did not infect Person: 18
+Interaction Logs: 
+Person: 96 did not infect Person: 37
+Interaction Logs: 
+Person: 96 did not infect 5 because Person: 5 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 36
+Interaction Logs: 
+Person: 96 did not infect Person: 91
+Interaction Logs: 
+Person: 96 did not infect Person: 10
+Interaction Logs: 
+Person: 96 did not infect Person: 44
+Interaction Logs: 
+Person: 96 did not infect Person: 56
+Interaction Logs: 
+Person: 96 did not infect Person: 83
+Interaction Logs: 
+Person: 96 did not infect Person: 32
+Interaction Logs: 
+Person: 96 did not infect Person: 95
+Interaction Logs: 
+Person: 96 did not infect Person: 61
+Interaction Logs: 
+Person: 96 did not infect Person: 27
+Interaction Logs: 
+Person: 96 did not infect Person: 25
+Interaction Logs: 
+Person: 96 did not infect Person: 68
+Interaction Logs: 
+Person: 96 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 71
+Interaction Logs: 
+Person: 96 did not infect Person: 89
+Interaction Logs: 
+Person: 96 did not infect 34 because Person: 34 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 17
+Interaction Logs: 
+Person: 96 did not infect Person: 13
+Interaction Logs: 
+Person: 96 did not infect Person: 78
+Interaction Logs: 
+Person: 96 did not infect Person: 94
+Interaction Logs: 
+Person: 96 did not infect Person: 75
+Interaction Logs: 
+Person: 96 did not infect Person: 30
+Interaction Logs: 
+Person: 96 did not infect Person: 31
+Interaction Logs: 
+Person: 96 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 85
+Interaction Logs: 
+Person: 96 did not infect Person: 67
+Interaction Logs: 
+Person: 96 did not infect Person: 28
+Interaction Logs: 
+Person: 96 did not infect 81 because Person: 81 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 29
+Interaction Logs: 
+Person: 96 did not infect 6 because Person: 6 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 12
+Interaction Logs: 
+Person: 96 did not infect Person: 52
+Interaction Logs: 
+Person: 96 did not infect Person: 42
+Interaction Logs: 
+Person: 96 did not infect Person: 91
+Interaction Logs: 
+Person: 96 did not infect Person: 60
+Interaction Logs: 
+Person: 96 did not infect Person: 12
+Interaction Logs: 
+Person: 96 did not infect Person: 87
+Interaction Logs: 
+Person: 96 did not infect Person: 98
+Interaction Logs: 
+Person: 96 did not infect Person: 17
+Interaction Logs: 
+Person: 96 did not infect 0 because Person: 0 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect 70 because Person: 70 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 20
+Interaction Logs: 
+Person: 96 did not infect Person: 52
+Interaction Logs: 
+Person: 96 did not infect Person: 83
+Interaction Logs: 
+Person: 96 did not infect Person: 60
+Interaction Logs: 
+Person: 96 did not infect Person: 61
+Interaction Logs: 
+Person: 96 did not infect Person: 83
+Interaction Logs: 
+Person: 96 did not infect Person: 25
+Interaction Logs: 
+Person: 96 did not infect 96 because Person: 96 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 36
+Interaction Logs: 
+Person: 96 did not infect Person: 41
+Interaction Logs: 
+Person: 96 did not infect Person: 36
+Interaction Logs: 
+Person: 96 did not infect Person: 82
+Interaction Logs: 
+Person: 96 did not infect 7 because Person: 7 is vaccinated or already sick.
+Interaction Logs: 
+Person: 96 did not infect Person: 98
+Interaction Logs: 
+Person: 96 did not infect Person: 11
+Interaction Logs: 
+Person: 96 did not infect Person: 83
+Interaction Logs: 
+Person: 96 did not infect Person: 73
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Infection Survived: 
+Time Steps: 1 ended -- Begin 2

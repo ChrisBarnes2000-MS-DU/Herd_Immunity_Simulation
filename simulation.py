@@ -45,7 +45,6 @@ class Simulation(object):
         self.population = []  # List of Person objects
         self.pop_size = pop_size  # Int
         self.next_person_id = 0  # Int
-        self.virus_name = virus_name  # Virus object
         self.initial_infected = initial_infected
         self.total_infected = 0  # Int
         self.current_infected = []  # Int
@@ -55,10 +54,10 @@ class Simulation(object):
         self.total_dead = 0  # Int
         self.mortality_rate = mortality_rate
         self.basic_repro_num = basic_repro_num
+        self.virus_name = Virus(virus_name, mortality_rate, basic_repro_num)
 
-        self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
-            virus_name, pop_size, vacc_percentage, initial_infected)
-        print(virus_name)
+        self.file_name = (f'{virus_name}_simulation_pop_{pop_size}_vp_'
+                     f'{vacc_percentage}_infected_{initial_infected}.txt')
         self.logger = Logger(self.file_name)
 
         self.newly_infected = []
@@ -274,18 +273,17 @@ class Simulation(object):
 
 if __name__ == "__main__":
     params = sys.argv[1:]
-    virus_name = str(params[2])
-    basic_repro_num = float(params[4])
-    mortality_rate = float(params[3])
     pop_size = int(params[0])
     vacc_percentage = float(params[1])
+    virus_name = str(params[2])
+    mortality_rate = float(params[3])
+    basic_repro_num = float(params[4])
+
     if len(params) == 6:
         initial_infected = int(params[5])
     else:
         initial_infected = 1
 
-    # virus = Virus(virus_name, basic_repro_num, mortality_rate)
-    sim = Simulation(virus_name, pop_size, vacc_percentage, mortality_rate,
-                            basic_repro_num, initial_infected)
-
-    sim.run()
+    simulation = Simulation(pop_size, vacc_percentage, virus_name,
+                            mortality_rate, basic_repro_num, initial_infected)
+    simulation.run()
